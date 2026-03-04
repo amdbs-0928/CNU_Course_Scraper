@@ -2,3 +2,5 @@
 但轉換過程不知道為什麼我的"department"全部會變成"食品科技系食品餐飲僑生專班"，而且會有很多空的課
 於是我用clean_data.py把資料courses.json轉成courses_fixed.json
 後利用網頁讀取courses_fixed.json
+
+網頁連結https://amdbs-0928.github.io/CNU_Course_Scraper/Webpage/index.html
