@@ -2,59 +2,57 @@ import json
 import re
 
 def clean_and_expand_courses():
-    # 1. 讀取有問題的原始檔案 (請確認檔名是否為 courses.json)
+    # 1. 讀取爬蟲抓下來的原始檔案
     try:
         with open('courses.json', 'r', encoding='utf-8') as f:
             data = json.load(f)
     except FileNotFoundError:
-        print("❌ 找不到 courses.json 檔案！")
+        print("❌ 找不到 courses.json 檔案！請確認爬蟲是否執行成功。")
         return
 
     cleaned_courses = []
     
-    # 輔助：將中文年級轉為數字，方便前端篩選 (例如 "一" 轉為 "1")
+    # 輔助：將中文年級轉為數字
     grade_map = {"一": "1", "二": "2", "三": "3", "四": "4", "五": "5"}
     
-    # 正規表達式：從「藥學一甲」中精準拆出「科系(藥學)」、「年級(一)」、「班級(甲)」
+    # 正規表達式：精準匹配「科系(非一~五) + 年級(一~五) + 班級(甲乙丙...)」
     class_pattern = re.compile(r"^([^一二三四五]+)([一二三四五])(.*)$")
 
     for course in data:
-        # 🎯 任務三：把沒有教師名稱的部分空資料刪掉
-        # 如果 teacher 是空的，或者只包含空白，直接跳過不處理
-        if not course.get("teacher") or course["teacher"].strip() == "":
+        # 🎯 任務一：刪除沒有授課教師的無效空資料
+        if not course.get("teacher") or str(course["teacher"]).strip() == "":
             continue
             
         target_classes_str = course.get("target_classes", "")
+        
+        # 🎯 優化點：如果沒有 target_classes (可能是全校共同選修)，直接保留原資料
         if not target_classes_str:
+            cleaned_courses.append(course)
             continue
 
         # 🎯 任務二：處理 target_classes 複數班級的情況
-        # 將 "藥學一甲.藥學一乙." 用 "." 拆解成陣列 ["藥學一甲", "藥學一乙"]
         class_list = [c.strip() for c in target_classes_str.split(".") if c.strip()]
         
-        # 將這堂課依據班級展開！
         for cls in class_list:
+            # 💡 這裡的 copy() 非常關鍵！它會把你的 syllabus_url 原封不動地複製過來
+            new_course = course.copy() 
+            
             match = class_pattern.match(cls)
             if match:
-                dept_short = match.group(1)    # 抓出 "藥學"
-                grade_zh = match.group(2)      # 抓出 "一"
-                class_section = match.group(3) # 抓出 "甲"
-                
-                # 建立一筆全新的獨立課程資料，避免參考到同一個物件
-                new_course = course.copy()
-                
-                # 🎯 任務一：將 department 替換為我們從 target_classes 拆出來的正確科系
-                new_course["department"] = dept_short
-                new_course["grade"] = grade_map.get(grade_zh, grade_zh)
-                new_course["class"] = class_section
-                
-                cleaned_courses.append(new_course)
+                # 成功拆解出 科系、年級、班級
+                new_course["department"] = match.group(1).strip()
+                new_course["grade"] = grade_map.get(match.group(2), match.group(2))
+                new_course["class"] = match.group(3).strip()
+            else:
+                # 🎯 優化點：如果格式太怪異導致拆解失敗，我們依然保留它，不讓資料遺失
+                new_course["class"] = cls 
+            
+            cleaned_courses.append(new_course)
 
-    # 去除重複：為了避免學校系統裡原本就有重複的資料，使用 set 幫我們去除完全一模一樣的課程物件
+    # 🎯 任務三：去除完全重複的課程資料
     unique_courses = []
     seen = set()
     for c in cleaned_courses:
-        # 將字典轉成字串當作判斷是否重複的 key
         c_str = json.dumps(c, sort_keys=True)
         if c_str not in seen:
             seen.add(c_str)
@@ -64,9 +62,10 @@ def clean_and_expand_courses():
     with open("courses_fixed.json", "w", encoding="utf-8") as f:
         json.dump(unique_courses, f, ensure_ascii=False, indent=4)
 
-    print(f"✅ 清理完成！")
-    print(f"   📉 包含空值的原始總筆數: {len(data)}")
-    print(f"   📈 清理空資料並展開複數班級後，完美的有效資料共: {len(unique_courses)} 筆")
+    print(f"✅ 資料清理與優化完成！")
+    print(f"   📉 原始資料總筆數: {len(data)}")
+    print(f"   📈 清理空資料並展開複數班級後，有效資料共: {len(unique_courses)} 筆")
+    print(f"   💡 (課程大綱網址 syllabus_url 已自動繼承保留)")
     print(f"   💾 檔案已儲存為：courses_fixed.json")
 
 if __name__ == "__main__":

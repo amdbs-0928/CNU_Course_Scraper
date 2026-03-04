@@ -4,3 +4,5 @@
 後利用網頁讀取courses_fixed.json
 
 網頁連結https://amdbs-0928.github.io/CNU_Course_Scraper/Webpage/index.html
+
+2026.3.4版本更新增加了文字搜索功能跟大綱進度舊版檔案已標上版本日期

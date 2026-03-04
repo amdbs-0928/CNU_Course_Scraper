@@ -128,31 +128,8 @@ def run(playwright):
                                             if time_slot:
                                                 schedule_list.append({"day": days[i], "period": time_slot})
                                                 
-                                        # 🟢 強效版：破解隱藏在圖片按鈕裡的 OpenKey
-                                        syllabus_url = ""
-                                        row_html = str(row)
-                                        
-                                        # 策略 1：直接找整列 HTML 有沒有明寫 OpenKey=數字 (忽略大小寫)
-                                        match1 = re.search(r'(?i)OpenKey=(\d+)', row_html)
-                                        
-                                        if match1:
-                                            open_key = match1.group(1)
-                                            syllabus_url = f"https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey={open_key}"
-                                        else:
-                                            # 策略 2：如果學校把它藏在 onClick 事件裡 (例如 onclick="javascript:pop('203625')")
-                                            # 掃描該列所有的 <a> 或 <img> 標籤
-                                            for tag in row.find_all(['a', 'img', 'input']):
-                                                tag_str = str(tag)
-                                                # 尋找 onclick 裡面帶有 5~7 位數字的參數 (通常這就是 OpenKey)
-                                                match2 = re.search(r'(?i)(?:onclick|href)=.*?[\'"](\d{5,7})[\'"]', tag_str)
-                                                if match2:
-                                                    open_key = match2.group(1)
-                                                    syllabus_url = f"https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey={open_key}"
-                                                    break # 找到就立刻跳出迴圈
-
-                                        # --- 組裝成完美的 JSON 字典 ---
                                         course_dict = {
-                                            "department": dept, # (或原本的 department)
+                                            "department": dept,
                                             "grade": grade,
                                             "class": class_section,
                                             "subject_name": subject_name,
@@ -163,8 +140,7 @@ def run(playwright):
                                             "target_classes": target_classes_str,
                                             "classroom": classroom,
                                             "teacher": teacher,
-                                            "schedule": schedule_list,
-                                            "syllabus_url": syllabus_url  # 🟢 成功抓到的網址會寫入這裡
+                                            "schedule": schedule_list
                                         }
                                         all_courses_data.append(course_dict)
                                 
