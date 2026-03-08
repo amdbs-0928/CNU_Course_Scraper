@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>嘉藥選課查課系統 (預設是全選)</title>
+    <title>嘉藥選課查課系統 (版本:2026.3.9)</title>
     <style>
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f7f6; color: #333; padding: 20px; }
         .container { max-width: 1400px; margin: 0 auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
         h1 { text-align: center; color: #2c3e50; }
         
-        /* 🟢 新增：搜尋框設計 */
+        /* 搜尋框設計 */
         .search-container { text-align: center; margin-bottom: 25px; }
         .search-input { width: 80%; max-width: 600px; padding: 12px 20px; font-size: 16px; border: 2px solid #3498db; border-radius: 25px; outline: none; transition: 0.3s; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
         .search-input:focus { border-color: #2980b9; box-shadow: 0 4px 10px rgba(52, 152, 219, 0.2); }
@@ -27,7 +27,7 @@
         .btn-search { padding: 12px 20px; background-color: #3498db; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; font-weight: bold; width: 100%; margin-top: 10px; transition: 0.2s;}
         .btn-search:hover { background-color: #2980b9; }
 
-        /* 表格設計 */
+        /* 表格設計 (PC版) */
         .table-responsive { width: 100%; overflow-x: auto; border-radius: 4px; box-shadow: 0 0 10px rgba(0,0,0,0.05); min-height: 400px; }
         table { width: 100%; border-collapse: collapse; font-size: 14px; background: white; }
         th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #ddd; white-space: nowrap; }
@@ -43,7 +43,7 @@
         .page-btn.active { background-color: #3498db; color: white; border-color: #2980b9; }
         .page-btn:disabled { border-color: #ccc; color: #ccc; cursor: not-allowed; }
 
-        /* 🟢 新增：彈出視窗 (Modal) 設計 */
+        /* 彈出視窗 (Modal) 設計 */
         .modal { display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.6); backdrop-filter: blur(2px); }
         .modal-content { background-color: #fff; margin: 3% auto; width: 90%; max-width: 1000px; height: 85%; border-radius: 8px; display: flex; flex-direction: column; box-shadow: 0 5px 15px rgba(0,0,0,0.3); animation: fadeIn 0.3s ease; overflow: hidden; }
         @keyframes fadeIn { from { opacity: 0; transform: translateY(-20px); } to { opacity: 1; transform: translateY(0); } }
@@ -52,15 +52,99 @@
         .close-btn { color: #555; font-size: 28px; font-weight: bold; cursor: pointer; transition: 0.2s; line-height: 45px; }
         .close-btn:hover { color: #e74c3c; }
         #syllabusFrame { width: 100%; flex-grow: 1; border: none; }
+
+        /* 🟢 核心新增：手機版 RWD (卡片化視圖) */
+        @media (max-width: 768px) {
+            body { padding: 10px; }
+            .container { padding: 10px; }
+            .search-input { width: 100%; box-sizing: border-box; }
+            
+            /* 調整篩選區塊為直式排列 */
+            .filter-section { flex-direction: column; gap: 15px; }
+            .filter-group { width: 100%; }
+
+            /* 隱藏傳統表頭 */
+            table thead { display: none; }
+            table, tbody, tr, td { display: block; width: 100%; box-sizing: border-box; }
+
+            /* 每一列變成一張精美的卡片 */
+            tr {
+                margin-bottom: 15px;
+                background-color: #fff;
+                border: 1px solid #e0e0e0;
+                border-radius: 12px;
+                box-shadow: 0 3px 6px rgba(0,0,0,0.08);
+                position: relative;
+                overflow: hidden; /* 確保標題的背景色不會溢出圓角 */
+            }
+
+            /* 卡片內的單一資料列 */
+            td {
+                text-align: right !important; /* 資料靠右 */
+                padding: 10px 15px;
+                position: relative;
+                border-bottom: 1px solid #f1f5f8;
+                font-size: 14px;
+                display: flex;
+                justify-content: flex-end;
+                align-items: center;
+                min-height: 40px;
+                white-space: normal; /* 允許文字換行 */
+            }
+            td:last-child { border-bottom: none; }
+
+            /* 透過 JS 注入的 data-label 產生左側標題 */
+            td::before {
+                content: attr(data-label);
+                position: absolute;
+                left: 15px;
+                font-weight: bold;
+                color: #7f8c8d;
+                text-align: left;
+            }
+
+            /* 🌟 特製卡片標題：科目名稱 */
+            td[data-label="科目名稱"] {
+                background-color: #3498db;
+                color: #fff !important; /* 強制覆蓋原本的深藍色 */
+                font-size: 16px;
+                text-align: left !important;
+                justify-content: flex-start;
+                padding: 12px 15px;
+                border-bottom: none;
+                padding-right: 50px; /* 留空間給大綱按鈕 */
+            }
+            td[data-label="科目名稱"]::before { display: none; }
+
+            /* 🌟 特製大綱按鈕：浮動至標題右上角 */
+            td[data-label="大綱"] {
+                position: absolute;
+                top: 0;
+                right: 0;
+                background: transparent;
+                border: none;
+                padding: 10px 15px;
+                width: auto;
+                min-height: auto;
+            }
+            td[data-label="大綱"]::before { display: none; }
+            td[data-label="大綱"] a {
+                filter: drop-shadow(0 1px 2px rgba(0,0,0,0.3)); /* 讓按鈕在藍色背景上清晰可見 */
+                font-size: 22px !important;
+            }
+
+            /* 隱藏在卡片中不必要的編號 */
+            td[data-label="編號"] { display: none; }
+        }
     </style>
 </head>
 <body>
 
 <div class="container">
     <h1>🎓 嘉藥選課查課系統</h1>
-
+    <a href="https://github.com/yichengchen/CNU_Course_Scraper" target="_blank" style="display: block; text-align: center; margin-bottom: 20px; color: #3498db; font-weight: bold;">🔗 GitHub 專案連結(查看版本更新事項)</a>
     <div class="search-container">
-        <input type="text" id="searchInput" class="search-input" placeholder="輸入課程名稱搜尋 (中英文皆可)..." oninput="applyFilters()">
+        <input type="text" id="searchInput" class="search-input" placeholder="🔍 輸入課程名稱搜尋 (中英文皆可)..." oninput="applyFilters()">
     </div>
 
     <div class="filter-section">
@@ -112,7 +196,8 @@
             <thead>
                 <tr>
                     <th>編號</th>
-                    <th>大綱</th> <th>科系</th>
+                    <th>大綱</th>
+                    <th>科系</th>
                     <th>科目名稱</th>
                     <th>種類/選課別</th>
                     <th>學分/時數</th>
@@ -221,23 +306,23 @@
 
             const fullType = `${course.required_or_elective || ''} ${course.course_category || ''}`.trim();
 
-            // 🟢 修改：將連結從開啟新分頁，改為呼叫 openModal() 函數
             const syllabusHtml = course.syllabus_url 
                 ? `<a href="javascript:void(0);" onclick="openModal('${course.syllabus_url}')" style="text-decoration: none; font-size: 18px;" title="點擊查看大綱">📄</a>` 
                 : `<span style="color:#ccc; font-size: 12px;">無</span>`;
 
+            // 🟢 核心修改：在每一個 td 標籤加入 data-label 屬性，讓 CSS 能夠抓到左側標題名稱
             const tr = document.createElement('tr');
             tr.innerHTML = `
-                <td>${startIndex + index + 1}</td>
-                <td style="text-align: center;">${syllabusHtml}</td>
-                <td style="color: #2980b9; font-weight:bold;">${course.department || ''}</td>
-                <td style="font-weight: bold; color: #2c3e50;">${course.subject_name || ''}</td>
-                <td><small>${fullType}</small></td>
-                <td>${course.credits || 0}/${course.hours || 0}</td>
-                <td style="color: #d35400; font-weight: bold;">${scheduleText}</td>
-                <td style="color: #7f8c8d;">${course.target_classes || ''}</td>
-                <td>${course.classroom || ''}</td>
-                <td style="font-weight: bold;">${course.teacher || ''}</td>
+                <td data-label="編號">${startIndex + index + 1}</td>
+                <td data-label="大綱" style="text-align: center;">${syllabusHtml}</td>
+                <td data-label="科系" style="color: #2980b9; font-weight:bold;">${course.department || ''}</td>
+                <td data-label="科目名稱" style="font-weight: bold; color: #2c3e50;">${course.subject_name || ''}</td>
+                <td data-label="種類/選課別"><small>${fullType}</small></td>
+                <td data-label="學分/時數">${course.credits || 0}/${course.hours || 0}</td>
+                <td data-label="上課時間" style="color: #d35400; font-weight: bold;">${scheduleText}</td>
+                <td data-label="開課班級" style="color: #7f8c8d;">${course.target_classes || ''}</td>
+                <td data-label="教室">${course.classroom || ''}</td>
+                <td data-label="授課老師" style="font-weight: bold;">${course.teacher || ''}</td>
             `;
             tbody.appendChild(tr);
         });
@@ -285,8 +370,6 @@
 
     function applyFilters() {
         currentPage = 1;
-
-        // 🟢 取得搜尋框的文字，並轉為小寫方便比對
         const searchKeyword = document.getElementById('searchInput').value.trim().toLowerCase();
         
         const checkedDepts = getCheckedValues('dept-cb');
@@ -298,11 +381,7 @@
         const hoursInput = document.getElementById('hours').value.trim();
 
         filteredResults = allCourses.filter(course => {
-            // 🟢 新增：搜尋關鍵字比對 (如果 searchKeyword 有字，且科目名稱不包含該字，就過濾掉)
-            if (searchKeyword && !(course.subject_name || "").toLowerCase().includes(searchKeyword)) {
-                return false;
-            }
-
+            if (searchKeyword && !(course.subject_name || "").toLowerCase().includes(searchKeyword)) return false;
             if (checkedDepts.length > 0 && !checkedDepts.includes(course.department)) return false;
             if (checkedGrades.length > 0 && !checkedGrades.includes(course.grade)) return false;
             if (checkedClasses.length > 0 && !checkedClasses.includes(course.class)) return false;
@@ -332,18 +411,16 @@
         renderTable();
     }
 
-    // 🟢 新增：彈出視窗 (Modal) 控制函數
     function openModal(url) {
-        document.getElementById('syllabusFrame').src = url; // 載入網址
-        document.getElementById('syllabusModal').style.display = 'block'; // 顯示視窗
+        document.getElementById('syllabusFrame').src = url; 
+        document.getElementById('syllabusModal').style.display = 'block'; 
     }
 
     function closeModal() {
-        document.getElementById('syllabusModal').style.display = 'none'; // 隱藏視窗
-        document.getElementById('syllabusFrame').src = ''; // 清空來源，停止背景載入
+        document.getElementById('syllabusModal').style.display = 'none'; 
+        document.getElementById('syllabusFrame').src = ''; 
     }
 
-    // 點擊視窗外面的黑色半透明區域也能關閉
     function closeModalOutside(event) {
         const modal = document.getElementById('syllabusModal');
         if (event.target === modal) {
@@ -354,4 +431,5 @@
 
 </body>
 </html>
-<!-- 2026/03/05 編寫 -->
+
+<!-- 2026/03/09 編寫 -->

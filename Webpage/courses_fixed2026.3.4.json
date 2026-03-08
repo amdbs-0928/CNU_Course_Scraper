@@ -219,7 +219,27 @@
         "credits": "1",
         "hours": "4",
         "target_classes": "藥學一甲.",
-        "classroom": "PS202, PS201",
+        "classroom": "PS202",
+        "teacher": "張麗珍.施佩禎",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203633"
+    },
+    {
+        "department": "藥學",
+        "grade": "1",
+        "class": "甲",
+        "subject_name": "基礎科學實驗(二) Basic Science Laboratory (II)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "4",
+        "target_classes": "藥學一甲.",
+        "classroom": "PS201",
         "teacher": "張麗珍.施佩禎",
         "schedule": [
             {
@@ -379,7 +399,27 @@
         "credits": "1",
         "hours": "4",
         "target_classes": "藥學一乙.",
-        "classroom": "PS201, PS202",
+        "classroom": "PS201",
+        "teacher": "張麗珍.顏清棋",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203639"
+    },
+    {
+        "department": "藥學",
+        "grade": "1",
+        "class": "乙",
+        "subject_name": "基礎科學實驗(二) Basic Science Laboratory (II)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "4",
+        "target_classes": "藥學一乙.",
+        "classroom": "PS202",
         "teacher": "張麗珍.顏清棋",
         "schedule": [
             {
@@ -799,7 +839,27 @@
         "credits": "1",
         "hours": "4",
         "target_classes": "藥學一丙.",
-        "classroom": "PS201, PS202",
+        "classroom": "PS201",
+        "teacher": "張麗珍.李得噍",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203657"
+    },
+    {
+        "department": "藥學",
+        "grade": "1",
+        "class": "丙",
+        "subject_name": "基礎科學實驗(二) Basic Science Laboratory (II)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "4",
+        "target_classes": "藥學一丙.",
+        "classroom": "PS202",
         "teacher": "張麗珍.李得噍",
         "schedule": [
             {
@@ -919,7 +979,27 @@
         "credits": "1",
         "hours": "4",
         "target_classes": "藥學一丁.",
-        "classroom": "PS201, PS202",
+        "classroom": "PS201",
+        "teacher": "張麗珍.施佩禎",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203663"
+    },
+    {
+        "department": "藥學",
+        "grade": "1",
+        "class": "丁",
+        "subject_name": "基礎科學實驗(二) Basic Science Laboratory (II)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "4",
+        "target_classes": "藥學一丁.",
+        "classroom": "PS202",
         "teacher": "張麗珍.施佩禎",
         "schedule": [
             {
@@ -1089,7 +1169,27 @@
         "credits": "1",
         "hours": "2",
         "target_classes": "藥學二甲.",
-        "classroom": "N301, N302",
+        "classroom": "N301",
+        "teacher": "高毓瑩.楊舜心",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203686"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "甲",
+        "subject_name": "生藥學實驗 Pharmacognosy Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "2",
+        "target_classes": "藥學二甲.",
+        "classroom": "N302",
         "teacher": "高毓瑩.楊舜心",
         "schedule": [
             {
@@ -1149,7 +1249,27 @@
         "credits": "1",
         "hours": "4",
         "target_classes": "藥學二甲.",
-        "classroom": "Q518, N301",
+        "classroom": "Q518",
+        "teacher": "蔡新茂.葉旭華",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203689"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "甲",
+        "subject_name": "基礎科學實驗(三) Basic Science Laboratory (Ⅲ)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "4",
+        "target_classes": "藥學二甲.",
+        "classroom": "N301",
         "teacher": "蔡新茂.葉旭華",
         "schedule": [
             {
@@ -1289,7 +1409,27 @@
         "credits": "1",
         "hours": "2",
         "target_classes": "藥學二乙.",
-        "classroom": "N301, N302",
+        "classroom": "N301",
+        "teacher": "高毓瑩.楊舜心",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "1-2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203701"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "乙",
+        "subject_name": "生藥學實驗 Pharmacognosy Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "2",
+        "target_classes": "藥學二乙.",
+        "classroom": "N302",
         "teacher": "高毓瑩.楊舜心",
         "schedule": [
             {
@@ -1349,7 +1489,27 @@
         "credits": "1",
         "hours": "4",
         "target_classes": "藥學二乙.",
-        "classroom": "Q518, N301",
+        "classroom": "Q518",
+        "teacher": "蔡新茂.葉旭華",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203704"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "乙",
+        "subject_name": "基礎科學實驗(三) Basic Science Laboratory (Ⅲ)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "4",
+        "target_classes": "藥學二乙.",
+        "classroom": "N301",
         "teacher": "蔡新茂.葉旭華",
         "schedule": [
             {
@@ -1449,7 +1609,27 @@
         "credits": "1",
         "hours": "2",
         "target_classes": "藥學二丙.",
-        "classroom": "N301, N302",
+        "classroom": "N301",
+        "teacher": "高毓瑩.楊舜心",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203708"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "丙",
+        "subject_name": "生藥學實驗 Pharmacognosy Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "2",
+        "target_classes": "藥學二丙.",
+        "classroom": "N302",
         "teacher": "高毓瑩.楊舜心",
         "schedule": [
             {
@@ -1509,7 +1689,27 @@
         "credits": "1",
         "hours": "4",
         "target_classes": "藥學二丙.",
-        "classroom": "Q518, N301",
+        "classroom": "Q518",
+        "teacher": "蔡新茂.葉旭華",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203711"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "丙",
+        "subject_name": "基礎科學實驗(三) Basic Science Laboratory (Ⅲ)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "4",
+        "target_classes": "藥學二丙.",
+        "classroom": "N301",
         "teacher": "蔡新茂.葉旭華",
         "schedule": [
             {
@@ -1649,7 +1849,27 @@
         "credits": "1",
         "hours": "2",
         "target_classes": "藥學二丁.",
-        "classroom": "N301, N302",
+        "classroom": "N301",
+        "teacher": "高毓瑩.楊舜心",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "1-2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203723"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "丁",
+        "subject_name": "生藥學實驗 Pharmacognosy Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "2",
+        "target_classes": "藥學二丁.",
+        "classroom": "N302",
         "teacher": "高毓瑩.楊舜心",
         "schedule": [
             {
@@ -1709,7 +1929,27 @@
         "credits": "1",
         "hours": "4",
         "target_classes": "藥學二丁.",
-        "classroom": "Q518, N301",
+        "classroom": "Q518",
+        "teacher": "蔡新茂.葉旭華.王冠傑",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203726"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "丁",
+        "subject_name": "基礎科學實驗(三) Basic Science Laboratory (Ⅲ)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "4",
+        "target_classes": "藥學二丁.",
+        "classroom": "N301",
         "teacher": "蔡新茂.葉旭華.王冠傑",
         "schedule": [
             {
@@ -2413,7 +2653,27 @@
         "credits": "3",
         "hours": "3",
         "target_classes": "藥學四甲.",
-        "classroom": "O205, N302",
+        "classroom": "O205",
+        "teacher": "梁峰賓.曾華友.林允崇",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "5-7"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203772"
+    },
+    {
+        "department": "藥學",
+        "grade": "4",
+        "class": "甲",
+        "subject_name": "方劑學(含實驗) Chinese Medicine Prescription and Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學四甲.",
+        "classroom": "N302",
         "teacher": "梁峰賓.曾華友.林允崇",
         "schedule": [
             {
@@ -2533,7 +2793,27 @@
         "credits": "3",
         "hours": "3",
         "target_classes": "藥學四乙.",
-        "classroom": "O204, N302",
+        "classroom": "O204",
+        "teacher": "施妤青.梁峰賓",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "5-7"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203776"
+    },
+    {
+        "department": "藥學",
+        "grade": "4",
+        "class": "乙",
+        "subject_name": "方劑學(含實驗) Chinese Medicine Prescription and Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學四乙.",
+        "classroom": "N302",
         "teacher": "施妤青.梁峰賓",
         "schedule": [
             {
@@ -2663,7 +2943,27 @@
         "credits": "3",
         "hours": "3",
         "target_classes": "藥學四丙.",
-        "classroom": "F214, N302",
+        "classroom": "F214",
+        "teacher": "施妤青.梁峰賓",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203780"
+    },
+    {
+        "department": "藥學",
+        "grade": "4",
+        "class": "丙",
+        "subject_name": "方劑學(含實驗) Chinese Medicine Prescription and Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學四丙.",
+        "classroom": "N302",
         "teacher": "施妤青.梁峰賓",
         "schedule": [
             {
@@ -2763,7 +3063,27 @@
         "credits": "3",
         "hours": "3",
         "target_classes": "藥學四丁.",
-        "classroom": "O203, N302",
+        "classroom": "O203",
+        "teacher": "施妤青.梁峰賓",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "5-7"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203789"
+    },
+    {
+        "department": "藥學",
+        "grade": "4",
+        "class": "丁",
+        "subject_name": "方劑學(含實驗) Chinese Medicine Prescription and Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學四丁.",
+        "classroom": "N302",
         "teacher": "施妤青.梁峰賓",
         "schedule": [
             {
@@ -3583,7 +3903,27 @@
         "credits": "2",
         "hours": "4",
         "target_classes": "食藥檢測一甲.",
-        "classroom": "C118, C117",
+        "classroom": "C118",
+        "teacher": "王博駿",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204511"
+    },
+    {
+        "department": "食藥檢測",
+        "grade": "1",
+        "class": "甲",
+        "subject_name": "普通化學實驗 General Chemistry Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "4",
+        "target_classes": "食藥檢測一甲.",
+        "classroom": "C117",
         "teacher": "王博駿",
         "schedule": [
             {
@@ -3623,7 +3963,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "食藥檢測一.",
-        "classroom": "C503, C506",
+        "classroom": "C503",
+        "teacher": "姜仁章",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "7-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204514"
+    },
+    {
+        "department": "食藥檢測",
+        "grade": "1",
+        "class": "",
+        "subject_name": "化學基礎檢定實務 Fundamental  Skill Certification Practice of Chemistry",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "食藥檢測一.",
+        "classroom": "C506",
         "teacher": "姜仁章",
         "schedule": [
             {
@@ -4503,7 +4863,27 @@
         "credits": "2",
         "hours": "4",
         "target_classes": "食藥檢測二甲.",
-        "classroom": "C503, C506",
+        "classroom": "C503",
+        "teacher": "傅世貴",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204519"
+    },
+    {
+        "department": "食藥檢測",
+        "grade": "2",
+        "class": "甲",
+        "subject_name": "食品分析實驗 Food Analysis Experiment",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "4",
+        "target_classes": "食藥檢測二甲.",
+        "classroom": "C506",
         "teacher": "傅世貴",
         "schedule": [
             {
@@ -4583,7 +4963,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "食藥檢測二.",
-        "classroom": "C506, C314",
+        "classroom": "C506",
+        "teacher": "傅世貴.葉紀禎",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204524"
+    },
+    {
+        "department": "食藥檢測",
+        "grade": "2",
+        "class": "",
+        "subject_name": "食品分析基礎檢定實務",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "食藥檢測二.",
+        "classroom": "C314",
         "teacher": "傅世貴.葉紀禎",
         "schedule": [
             {
@@ -4643,7 +5043,47 @@
         "credits": "2",
         "hours": "4",
         "target_classes": "食藥檢測三甲.",
-        "classroom": "Q613, C221, C222",
+        "classroom": "Q613",
+        "teacher": "田孝威",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204529"
+    },
+    {
+        "department": "食藥檢測",
+        "grade": "3",
+        "class": "甲",
+        "subject_name": "儀器分析實驗(二) Instrumental Analysis Laboratory (Ⅱ)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "4",
+        "target_classes": "食藥檢測三甲.",
+        "classroom": "C221",
+        "teacher": "田孝威",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204529"
+    },
+    {
+        "department": "食藥檢測",
+        "grade": "3",
+        "class": "甲",
+        "subject_name": "儀器分析實驗(二) Instrumental Analysis Laboratory (Ⅱ)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "4",
+        "target_classes": "食藥檢測三甲.",
+        "classroom": "C222",
         "teacher": "田孝威",
         "schedule": [
             {
@@ -4683,7 +5123,27 @@
         "credits": "2",
         "hours": "4",
         "target_classes": "食藥檢測三甲.",
-        "classroom": "C214, C503",
+        "classroom": "C214",
+        "teacher": "王博駿",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204531"
+    },
+    {
+        "department": "食藥檢測",
+        "grade": "3",
+        "class": "甲",
+        "subject_name": "藥物檢測實驗 Drug Detection ExperimentDrug Detection Experiment",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "4",
+        "target_classes": "食藥檢測三甲.",
+        "classroom": "C503",
         "teacher": "王博駿",
         "schedule": [
             {
@@ -4723,7 +5183,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "食藥檢測三.",
-        "classroom": "C506, C314",
+        "classroom": "C506",
+        "teacher": "傅世貴.葉紀禎",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204534"
+    },
+    {
+        "department": "食藥檢測",
+        "grade": "3",
+        "class": "",
+        "subject_name": "食品分析基礎檢定實務",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "食藥檢測三.",
+        "classroom": "C314",
         "teacher": "傅世貴.葉紀禎",
         "schedule": [
             {
@@ -4833,7 +5313,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "食藥檢測四.",
-        "classroom": "C506, C314",
+        "classroom": "C506",
+        "teacher": "傅世貴.葉紀禎",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204541"
+    },
+    {
+        "department": "食藥檢測",
+        "grade": "4",
+        "class": "",
+        "subject_name": "食品分析基礎檢定實務",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "食藥檢測四.",
+        "classroom": "C314",
         "teacher": "傅世貴.葉紀禎",
         "schedule": [
             {
@@ -7313,7 +7813,47 @@
         "credits": "4",
         "hours": "4",
         "target_classes": "食品二.",
-        "classroom": "F116, F117, F118",
+        "classroom": "F116",
+        "teacher": "林盈君",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205584"
+    },
+    {
+        "department": "食品",
+        "grade": "2",
+        "class": "",
+        "subject_name": "巧克力加工技術實務 Chocolate processing technology practices",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "4",
+        "hours": "4",
+        "target_classes": "食品二.",
+        "classroom": "F117",
+        "teacher": "林盈君",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205584"
+    },
+    {
+        "department": "食品",
+        "grade": "2",
+        "class": "",
+        "subject_name": "巧克力加工技術實務 Chocolate processing technology practices",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "4",
+        "hours": "4",
+        "target_classes": "食品二.",
+        "classroom": "F118",
         "teacher": "林盈君",
         "schedule": [
             {
@@ -10898,7 +11438,27 @@
         "credits": "2",
         "hours": "3",
         "target_classes": "粧品一甲.",
-        "classroom": "C117, C118",
+        "classroom": "C117",
+        "teacher": "陳盈如",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "5-7"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204956"
+    },
+    {
+        "department": "粧品",
+        "grade": "1",
+        "class": "甲",
+        "subject_name": "化粧品生活應用實作 Practical Application of Cosmetics in Life",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "3",
+        "target_classes": "粧品一甲.",
+        "classroom": "C118",
         "teacher": "陳盈如",
         "schedule": [
             {
@@ -11088,7 +11648,27 @@
         "credits": "2",
         "hours": "3",
         "target_classes": "粧品一乙.",
-        "classroom": "C117, C118",
+        "classroom": "C117",
+        "teacher": "汪梅英",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204966"
+    },
+    {
+        "department": "粧品",
+        "grade": "1",
+        "class": "乙",
+        "subject_name": "化粧品生活應用實作 Practical Application of Cosmetics in Life",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "3",
+        "target_classes": "粧品一乙.",
+        "classroom": "C118",
         "teacher": "汪梅英",
         "schedule": [
             {
@@ -11228,7 +11808,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "粧品二.",
-        "classroom": "B404, C226",
+        "classroom": "B404",
+        "teacher": "許淑燕",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "1-2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205763"
+    },
+    {
+        "department": "粧品",
+        "grade": "2",
+        "class": "",
+        "subject_name": "經絡美容學 Meridian Theory",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "粧品二.",
+        "classroom": "C226",
         "teacher": "許淑燕",
         "schedule": [
             {
@@ -11348,7 +11948,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "粧品二.",
-        "classroom": "B403, B201",
+        "classroom": "B403",
+        "teacher": "康雅潔",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206089"
+    },
+    {
+        "department": "粧品",
+        "grade": "2",
+        "class": "",
+        "subject_name": "經絡美容學 Meridian Theory",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "粧品二.",
+        "classroom": "B201",
         "teacher": "康雅潔",
         "schedule": [
             {
@@ -11428,7 +12048,27 @@
         "credits": "1",
         "hours": "2",
         "target_classes": "粧品三甲.",
-        "classroom": "B403, B401",
+        "classroom": "B403",
+        "teacher": "蔡玫琳",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204981"
+    },
+    {
+        "department": "粧品",
+        "grade": "3",
+        "class": "甲",
+        "subject_name": "化粧品有效性評估 Efficacy Evaluationof Cosmetics",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "2",
+        "target_classes": "粧品三甲.",
+        "classroom": "B401",
         "teacher": "蔡玫琳",
         "schedule": [
             {
@@ -11448,7 +12088,27 @@
         "credits": "2",
         "hours": "3",
         "target_classes": "粧品三甲.",
-        "classroom": "C119, CS202",
+        "classroom": "C119",
+        "teacher": "林朝賢",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "5-7"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204982"
+    },
+    {
+        "department": "粧品",
+        "grade": "3",
+        "class": "甲",
+        "subject_name": "化粧品微生物學(含實驗) Cosmetic Microbiology & Experiment",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "3",
+        "target_classes": "粧品三甲.",
+        "classroom": "CS202",
         "teacher": "林朝賢",
         "schedule": [
             {
@@ -11588,7 +12248,27 @@
         "credits": "1",
         "hours": "2",
         "target_classes": "粧品三乙.",
-        "classroom": "B403, B401",
+        "classroom": "B403",
+        "teacher": "蔡玫琳",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204987"
+    },
+    {
+        "department": "粧品",
+        "grade": "3",
+        "class": "乙",
+        "subject_name": "化粧品有效性評估 Efficacy Evaluationof Cosmetics",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "2",
+        "target_classes": "粧品三乙.",
+        "classroom": "B401",
         "teacher": "蔡玫琳",
         "schedule": [
             {
@@ -11608,7 +12288,27 @@
         "credits": "2",
         "hours": "3",
         "target_classes": "粧品三乙.",
-        "classroom": "CS202, C119",
+        "classroom": "CS202",
+        "teacher": "呂昆霖",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204988"
+    },
+    {
+        "department": "粧品",
+        "grade": "3",
+        "class": "乙",
+        "subject_name": "化粧品微生物學(含實驗) Cosmetic Microbiology & Experiment",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "3",
+        "target_classes": "粧品三乙.",
+        "classroom": "C119",
         "teacher": "呂昆霖",
         "schedule": [
             {
@@ -11928,7 +12628,47 @@
         "credits": "2",
         "hours": "4",
         "target_classes": "粧品四.",
-        "classroom": "C221, C222, CS202",
+        "classroom": "C221",
+        "teacher": "李淵博",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206105"
+    },
+    {
+        "department": "粧品",
+        "grade": "4",
+        "class": "",
+        "subject_name": "化粧品分析技術實驗 Technologies for Cosmetic Analysis Lab",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "4",
+        "target_classes": "粧品四.",
+        "classroom": "C222",
+        "teacher": "李淵博",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206105"
+    },
+    {
+        "department": "粧品",
+        "grade": "4",
+        "class": "",
+        "subject_name": "化粧品分析技術實驗 Technologies for Cosmetic Analysis Lab",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "4",
+        "target_classes": "粧品四.",
+        "classroom": "CS202",
         "teacher": "李淵博",
         "schedule": [
             {
@@ -12278,7 +13018,47 @@
         "credits": "3",
         "hours": "4",
         "target_classes": "幼保二甲.",
-        "classroom": "Y401, Y605, Y606",
+        "classroom": "Y401",
+        "teacher": "賴羿蓉",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204696"
+    },
+    {
+        "department": "幼保",
+        "grade": "2",
+        "class": "甲",
+        "subject_name": "幼兒園教保活動課程設計 Curriculum Design for Pre-School",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "4",
+        "target_classes": "幼保二甲.",
+        "classroom": "Y605",
+        "teacher": "賴羿蓉",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204696"
+    },
+    {
+        "department": "幼保",
+        "grade": "2",
+        "class": "甲",
+        "subject_name": "幼兒園教保活動課程設計 Curriculum Design for Pre-School",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "4",
+        "target_classes": "幼保二甲.",
+        "classroom": "Y606",
         "teacher": "賴羿蓉",
         "schedule": [
             {
@@ -12378,7 +13158,27 @@
         "credits": "2",
         "hours": "4",
         "target_classes": "幼保三甲.",
-        "classroom": "Y401, Y402",
+        "classroom": "Y401",
+        "teacher": "賴怜蜜",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204700"
+    },
+    {
+        "department": "幼保",
+        "grade": "3",
+        "class": "甲",
+        "subject_name": "嬰幼兒急救與實作 Child First Aid and Nursing Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "4",
+        "target_classes": "幼保三甲.",
+        "classroom": "Y402",
         "teacher": "賴怜蜜",
         "schedule": [
             {
@@ -12398,7 +13198,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "幼保三甲.",
-        "classroom": "Y606, Y607",
+        "classroom": "Y606",
+        "teacher": "王茜瑩",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204701"
+    },
+    {
+        "department": "幼保",
+        "grade": "3",
+        "class": "甲",
+        "subject_name": "幼兒園教材教法Ⅱ Learning and Teaching in Early Childhood Settings(Ⅱ)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "幼保三甲.",
+        "classroom": "Y607",
         "teacher": "王茜瑩",
         "schedule": [
             {
@@ -12498,7 +13318,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "幼保三.",
-        "classroom": "Y401, Y402",
+        "classroom": "Y401",
+        "teacher": "梁振翊",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205486"
+    },
+    {
+        "department": "幼保",
+        "grade": "3",
+        "class": "",
+        "subject_name": "托育人員實務專題 Caregiver Skills and Practice",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "幼保三.",
+        "classroom": "Y402",
         "teacher": "梁振翊",
         "schedule": [
             {
@@ -13378,7 +14218,27 @@
         "credits": "2",
         "hours": "4",
         "target_classes": "保營一甲.",
-        "classroom": "QS402, N002",
+        "classroom": "QS402",
+        "teacher": "陳怡伶",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205040"
+    },
+    {
+        "department": "保營",
+        "grade": "1",
+        "class": "甲",
+        "subject_name": "營養學實驗 Experiments in Nutrition",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "4",
+        "target_classes": "保營一甲.",
+        "classroom": "N002",
         "teacher": "陳怡伶",
         "schedule": [
             {
@@ -13548,7 +14408,27 @@
         "credits": "2",
         "hours": "4",
         "target_classes": "保營一乙.",
-        "classroom": "R001, QS503",
+        "classroom": "R001",
+        "teacher": "許鈺喬",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205053"
+    },
+    {
+        "department": "保營",
+        "grade": "1",
+        "class": "乙",
+        "subject_name": "營養學實驗 Experiments in Nutrition",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "4",
+        "target_classes": "保營一乙.",
+        "classroom": "QS503",
         "teacher": "許鈺喬",
         "schedule": [
             {
@@ -14128,7 +15008,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "保營三.",
-        "classroom": "F212, F403",
+        "classroom": "F212",
+        "teacher": "孫芳明",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205084"
+    },
+    {
+        "department": "保營",
+        "grade": "3",
+        "class": "",
+        "subject_name": "食品化學暨實驗 Food Chemistry and Experiments",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "保營三.",
+        "classroom": "F403",
         "teacher": "孫芳明",
         "schedule": [
             {
@@ -14748,7 +15648,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "休閒二.",
-        "classroom": "B203, U103",
+        "classroom": "B203",
+        "teacher": "張秀卿",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206000"
+    },
+    {
+        "department": "休閒",
+        "grade": "2",
+        "class": "",
+        "subject_name": "幼兒體能遊戲 Physical Movement  for Young Children",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "休閒二.",
+        "classroom": "U103",
         "teacher": "張秀卿",
         "schedule": [
             {
@@ -14933,7 +15853,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "休閒四.",
-        "classroom": "B205, V105",
+        "classroom": "B205",
+        "teacher": "張秀卿",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206006"
+    },
+    {
+        "department": "休閒",
+        "grade": "4",
+        "class": "",
+        "subject_name": "健身運動指導 Guiding of Health Sports",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "休閒四.",
+        "classroom": "V105",
         "teacher": "張秀卿",
         "schedule": [
             {
@@ -15608,7 +16548,27 @@
         "credits": "3",
         "hours": "4",
         "target_classes": "社工二乙.",
-        "classroom": "Y804, Y802",
+        "classroom": "Y804",
+        "teacher": "王春展",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204361"
+    },
+    {
+        "department": "社工",
+        "grade": "2",
+        "class": "乙",
+        "subject_name": "社會團體工作 Social Group Work",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "4",
+        "target_classes": "社工二乙.",
+        "classroom": "Y802",
         "teacher": "王春展",
         "schedule": [
             {
@@ -16408,7 +17368,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "生活一甲.",
-        "classroom": "Y407, F103",
+        "classroom": "Y407",
+        "teacher": "王柏森",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204217"
+    },
+    {
+        "department": "生活",
+        "grade": "1",
+        "class": "甲",
+        "subject_name": "食品微生物實務 Pratice in food Microbiology",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "生活一甲.",
+        "classroom": "F103",
         "teacher": "王柏森",
         "schedule": [
             {
@@ -16488,7 +17468,27 @@
         "credits": "3",
         "hours": "4",
         "target_classes": "生活二甲.",
-        "classroom": "F504, Y408",
+        "classroom": "F504",
+        "teacher": "林翠品",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204219"
+    },
+    {
+        "department": "生活",
+        "grade": "2",
+        "class": "甲",
+        "subject_name": "膳食設計實務 Dietary Design Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "4",
+        "target_classes": "生活二甲.",
+        "classroom": "Y408",
         "teacher": "林翠品",
         "schedule": [
             {
@@ -16668,7 +17668,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "生活三甲.",
-        "classroom": "F504, Y408",
+        "classroom": "F504",
+        "teacher": "張瀝分",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204226"
+    },
+    {
+        "department": "生活",
+        "grade": "3",
+        "class": "甲",
+        "subject_name": "膳食療養學暨實務 Dietetic Therapy and Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "生活三甲.",
+        "classroom": "Y408",
         "teacher": "張瀝分",
         "schedule": [
             {
@@ -16688,7 +17708,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "生活三甲.",
-        "classroom": "Y408, F504",
+        "classroom": "Y408",
+        "teacher": "張瀝分",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "7-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204227"
+    },
+    {
+        "department": "生活",
+        "grade": "3",
+        "class": "甲",
+        "subject_name": "專題製作 Special Project",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "生活三甲.",
+        "classroom": "F504",
         "teacher": "張瀝分",
         "schedule": [
             {
@@ -16843,7 +17883,27 @@
         "credits": "4",
         "hours": "4",
         "target_classes": "生活四.",
-        "classroom": "F504, F502",
+        "classroom": "F504",
+        "teacher": "陳淑宜",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206217"
+    },
+    {
+        "department": "生活",
+        "grade": "4",
+        "class": "",
+        "subject_name": "喜宴規劃與設計 Wedding Reception Decoration",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "4",
+        "hours": "4",
+        "target_classes": "生活四.",
+        "classroom": "F502",
         "teacher": "陳淑宜",
         "schedule": [
             {
@@ -17983,7 +19043,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "餐旅四.",
-        "classroom": "QS406, R301",
+        "classroom": "QS406",
+        "teacher": "孫靖玲",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206133"
+    },
+    {
+        "department": "餐旅",
+        "grade": "4",
+        "class": "",
+        "subject_name": "蛋糕裝飾實務 Cake Decoration",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "餐旅四.",
+        "classroom": "R301",
         "teacher": "孫靖玲",
         "schedule": [
             {
@@ -18023,7 +19103,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "餐旅四.",
-        "classroom": "QS406, R301",
+        "classroom": "QS406",
+        "teacher": "孫靖玲",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "1-2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206465"
+    },
+    {
+        "department": "餐旅",
+        "grade": "4",
+        "class": "",
+        "subject_name": "西點製作原理 Fundamental of Western-style Pastry",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "餐旅四.",
+        "classroom": "R301",
         "teacher": "孫靖玲",
         "schedule": [
             {
@@ -19858,7 +20958,27 @@
         "credits": "2",
         "hours": "4",
         "target_classes": "觀光三甲.",
-        "classroom": "O204, K620",
+        "classroom": "O204",
+        "teacher": "戴揚飛.駱菁菁",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203855"
+    },
+    {
+        "department": "觀光",
+        "grade": "3",
+        "class": "甲",
+        "subject_name": "飯店經營管理實作 Hotel Management and Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "4",
+        "target_classes": "觀光三甲.",
+        "classroom": "K620",
         "teacher": "戴揚飛.駱菁菁",
         "schedule": [
             {
@@ -20148,7 +21268,27 @@
         "credits": "2",
         "hours": "3",
         "target_classes": "運管一甲.",
-        "classroom": "C319, U103",
+        "classroom": "C319",
+        "teacher": "盧素娥",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204906"
+    },
+    {
+        "department": "運管",
+        "grade": "1",
+        "class": "甲",
+        "subject_name": "體適能指導與運動處方 Instruction of Health Related Physical Fitness and Exercise Prescription",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "3",
+        "target_classes": "運管一甲.",
+        "classroom": "U103",
         "teacher": "盧素娥",
         "schedule": [
             {
@@ -20228,7 +21368,27 @@
         "credits": "2",
         "hours": "3",
         "target_classes": "運管一乙.",
-        "classroom": "C319, U103",
+        "classroom": "C319",
+        "teacher": "林麗華",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "5-7"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204908"
+    },
+    {
+        "department": "運管",
+        "grade": "1",
+        "class": "乙",
+        "subject_name": "體適能指導與運動處方 Instruction of Health Related Physical Fitness and Exercise Prescription",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "3",
+        "target_classes": "運管一乙.",
+        "classroom": "U103",
         "teacher": "林麗華",
         "schedule": [
             {
@@ -20418,7 +21578,47 @@
         "credits": "2",
         "hours": "3",
         "target_classes": "運管二甲.",
-        "classroom": "C319, G101, U103",
+        "classroom": "C319",
+        "teacher": "王明瑞",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204917"
+    },
+    {
+        "department": "運管",
+        "grade": "2",
+        "class": "甲",
+        "subject_name": "運動賽會管理與實作 Sports Events Management and Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "3",
+        "target_classes": "運管二甲.",
+        "classroom": "G101",
+        "teacher": "王明瑞",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204917"
+    },
+    {
+        "department": "運管",
+        "grade": "2",
+        "class": "甲",
+        "subject_name": "運動賽會管理與實作 Sports Events Management and Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "3",
+        "target_classes": "運管二甲.",
+        "classroom": "U103",
         "teacher": "王明瑞",
         "schedule": [
             {
@@ -20478,7 +21678,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "運管二.",
-        "classroom": "C321, D2-003",
+        "classroom": "C321",
+        "teacher": "施正人",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205734"
+    },
+    {
+        "department": "運管",
+        "grade": "2",
+        "class": "",
+        "subject_name": "單車裝配與維修 Assembly and Service of Bicycle",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "運管二.",
+        "classroom": "D2-003",
         "teacher": "施正人",
         "schedule": [
             {
@@ -20498,7 +21718,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "運管二.",
-        "classroom": "C321, D2-003",
+        "classroom": "C321",
+        "teacher": "施正人",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "7-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205735"
+    },
+    {
+        "department": "運管",
+        "grade": "2",
+        "class": "",
+        "subject_name": "單車觀光導覽與設計 Cycling Sightseeing and Design",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "運管二.",
+        "classroom": "D2-003",
         "teacher": "施正人",
         "schedule": [
             {
@@ -20518,7 +21758,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "運管二.",
-        "classroom": "C320, U103",
+        "classroom": "C320",
+        "teacher": "林麗華",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "1-2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206285"
+    },
+    {
+        "department": "運管",
+        "grade": "2",
+        "class": "",
+        "subject_name": "樂齡運動指導與實作 Elderly People Exercising Construction",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "運管二.",
+        "classroom": "U103",
         "teacher": "林麗華",
         "schedule": [
             {
@@ -20558,7 +21818,47 @@
         "credits": "2",
         "hours": "3",
         "target_classes": "運管二乙.",
-        "classroom": "C316, G101, U103",
+        "classroom": "C316",
+        "teacher": "王明瑞",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204919"
+    },
+    {
+        "department": "運管",
+        "grade": "2",
+        "class": "乙",
+        "subject_name": "運動賽會管理與實作 Sports Events Management and Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "3",
+        "target_classes": "運管二乙.",
+        "classroom": "G101",
+        "teacher": "王明瑞",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204919"
+    },
+    {
+        "department": "運管",
+        "grade": "2",
+        "class": "乙",
+        "subject_name": "運動賽會管理與實作 Sports Events Management and Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "3",
+        "target_classes": "運管二乙.",
+        "classroom": "U103",
         "teacher": "王明瑞",
         "schedule": [
             {
@@ -20618,7 +21918,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "運管二.",
-        "classroom": "C320, D2-003",
+        "classroom": "C320",
+        "teacher": "施正人",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205739"
+    },
+    {
+        "department": "運管",
+        "grade": "2",
+        "class": "",
+        "subject_name": "單車裝配與維修 Assembly and Service of Bicycle",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "運管二.",
+        "classroom": "D2-003",
         "teacher": "施正人",
         "schedule": [
             {
@@ -20638,7 +21958,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "運管二.",
-        "classroom": "C320, D2-003",
+        "classroom": "C320",
+        "teacher": "施正人",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "7-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205740"
+    },
+    {
+        "department": "運管",
+        "grade": "2",
+        "class": "",
+        "subject_name": "單車觀光導覽與設計 Cycling Sightseeing and Design",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "運管二.",
+        "classroom": "D2-003",
         "teacher": "施正人",
         "schedule": [
             {
@@ -20798,7 +22138,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "運管三.",
-        "classroom": "C321, H101",
+        "classroom": "C321",
+        "teacher": "鄭欽嬴",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205746"
+    },
+    {
+        "department": "運管",
+        "grade": "3",
+        "class": "",
+        "subject_name": "休閒潛水 Scuba Diving",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "運管三.",
+        "classroom": "H101",
         "teacher": "鄭欽嬴",
         "schedule": [
             {
@@ -20818,7 +22178,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "運管三.",
-        "classroom": "C322, H101",
+        "classroom": "C322",
+        "teacher": "林明珠",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "7-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205747"
+    },
+    {
+        "department": "運管",
+        "grade": "3",
+        "class": "",
+        "subject_name": "水適能運動指導法 Conduct Sports Aquafitness",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "運管三.",
+        "classroom": "H101",
         "teacher": "林明珠",
         "schedule": [
             {
@@ -20858,7 +22238,7 @@
         "credits": "2",
         "hours": "3",
         "target_classes": "運管三甲.運管三乙.",
-        "classroom": "C320, V105",
+        "classroom": "C320",
         "teacher": "楊朝行",
         "schedule": [
             {
@@ -20878,7 +22258,47 @@
         "credits": "2",
         "hours": "3",
         "target_classes": "運管三甲.運管三乙.",
-        "classroom": "C320, V105",
+        "classroom": "C320",
+        "teacher": "楊朝行",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206313"
+    },
+    {
+        "department": "運管",
+        "grade": "3",
+        "class": "甲",
+        "subject_name": "肌力與體能訓練理論與實務 Essentials of Strength Tining and Conditioning Theory and Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "3",
+        "target_classes": "運管三甲.運管三乙.",
+        "classroom": "V105",
+        "teacher": "楊朝行",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206313"
+    },
+    {
+        "department": "運管",
+        "grade": "3",
+        "class": "乙",
+        "subject_name": "肌力與體能訓練理論與實務 Essentials of Strength Tining and Conditioning Theory and Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "3",
+        "target_classes": "運管三甲.運管三乙.",
+        "classroom": "V105",
         "teacher": "楊朝行",
         "schedule": [
             {
@@ -20938,7 +22358,47 @@
         "credits": "3",
         "hours": "3",
         "target_classes": "運管四甲.",
-        "classroom": "U103, G101, C319",
+        "classroom": "U103",
+        "teacher": "陳秀華",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "5-7"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204928"
+    },
+    {
+        "department": "運管",
+        "grade": "4",
+        "class": "甲",
+        "subject_name": "活動規劃設計與實作 Activities Design and Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "運管四甲.",
+        "classroom": "G101",
+        "teacher": "陳秀華",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "5-7"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204928"
+    },
+    {
+        "department": "運管",
+        "grade": "4",
+        "class": "甲",
+        "subject_name": "活動規劃設計與實作 Activities Design and Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "運管四甲.",
+        "classroom": "C319",
         "teacher": "陳秀華",
         "schedule": [
             {
@@ -20958,7 +22418,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "運管四.",
-        "classroom": "C322, D10-201",
+        "classroom": "C322",
+        "teacher": "陳贊仰",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "1-2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205750"
+    },
+    {
+        "department": "運管",
+        "grade": "4",
+        "class": "",
+        "subject_name": "運動保健學 Athletic Training & Health",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "運管四.",
+        "classroom": "D10-201",
         "teacher": "陳贊仰",
         "schedule": [
             {
@@ -21018,7 +22498,47 @@
         "credits": "3",
         "hours": "3",
         "target_classes": "運管四乙.",
-        "classroom": "C312, G101, U103",
+        "classroom": "C312",
+        "teacher": "陳秀華",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205754"
+    },
+    {
+        "department": "運管",
+        "grade": "4",
+        "class": "乙",
+        "subject_name": "活動規劃設計與實作 Activities Design and Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "運管四乙.",
+        "classroom": "G101",
+        "teacher": "陳秀華",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205754"
+    },
+    {
+        "department": "運管",
+        "grade": "4",
+        "class": "乙",
+        "subject_name": "活動規劃設計與實作 Activities Design and Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "運管四乙.",
+        "classroom": "U103",
         "teacher": "陳秀華",
         "schedule": [
             {
@@ -21088,7 +22608,27 @@
         "credits": "3",
         "hours": "3",
         "target_classes": "高福一甲.",
-        "classroom": "C309, Y604",
+        "classroom": "C309",
+        "teacher": "龔玉齡",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205225"
+    },
+    {
+        "department": "高福",
+        "grade": "1",
+        "class": "甲",
+        "subject_name": "社會福利概論 Introduction of Social Welfare",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "高福一甲.",
+        "classroom": "Y604",
         "teacher": "龔玉齡",
         "schedule": [
             {
@@ -21363,7 +22903,27 @@
         "credits": "2",
         "hours": "3",
         "target_classes": "高福三甲.",
-        "classroom": "N001, E501",
+        "classroom": "N001",
+        "teacher": "孫自宜",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205234"
+    },
+    {
+        "department": "高福",
+        "grade": "3",
+        "class": "甲",
+        "subject_name": "銀髮產業創新創意與實作 Innovation and Creativity in the Elderly Industry and Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "3",
+        "target_classes": "高福三甲.",
+        "classroom": "E501",
         "teacher": "孫自宜",
         "schedule": [
             {
@@ -21383,7 +22943,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "高福三甲.",
-        "classroom": "E501, N003",
+        "classroom": "E501",
+        "teacher": "林秀碧.林昱廷",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205235"
+    },
+    {
+        "department": "高福",
+        "grade": "3",
+        "class": "甲",
+        "subject_name": "高齡健康促進管理實務 Practices of Senior Health Promotion",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "高福三甲.",
+        "classroom": "N003",
         "teacher": "林秀碧.林昱廷",
         "schedule": [
             {
@@ -21443,7 +23023,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "高福三.",
-        "classroom": "E501, N001",
+        "classroom": "E501",
+        "teacher": "陳如萍",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205862"
+    },
+    {
+        "department": "高福",
+        "grade": "3",
+        "class": "",
+        "subject_name": "藝術與園藝治療應用 Art and Horticulture Therapy Applications",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "高福三.",
+        "classroom": "N001",
         "teacher": "陳如萍",
         "schedule": [
             {
@@ -21558,7 +23158,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "高福四.",
-        "classroom": "E501, N001",
+        "classroom": "E501",
+        "teacher": "陳如萍",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205863"
+    },
+    {
+        "department": "高福",
+        "grade": "4",
+        "class": "",
+        "subject_name": "藝術與園藝治療應用 Art and Horticulture Therapy Applications",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "高福四.",
+        "classroom": "N001",
         "teacher": "陳如萍",
         "schedule": [
             {
@@ -22308,7 +23928,27 @@
         "credits": "2",
         "hours": "3",
         "target_classes": "消防一甲.",
-        "classroom": "C117, C118",
+        "classroom": "C117",
+        "teacher": "蔡百豐",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "5-7"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204728"
+    },
+    {
+        "department": "消防",
+        "grade": "1",
+        "class": "甲",
+        "subject_name": "普通化學實驗 General Chemistry Experiment",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "3",
+        "target_classes": "消防一甲.",
+        "classroom": "C118",
         "teacher": "蔡百豐",
         "schedule": [
             {
@@ -23178,7 +24818,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "藥粧生技一.",
-        "classroom": "Q610, QS401",
+        "classroom": "Q610",
+        "teacher": "龔玉蓉",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205876"
+    },
+    {
+        "department": "藥粧生技",
+        "grade": "1",
+        "class": "",
+        "subject_name": "香粧品產業概論與實作 Introduction to Cosmetic Industry",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥粧生技一.",
+        "classroom": "QS401",
         "teacher": "龔玉蓉",
         "schedule": [
             {
@@ -23278,7 +24938,27 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "藥粧生技二.",
-        "classroom": "Q610, QS401",
+        "classroom": "Q610",
+        "teacher": "龔玉蓉",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205879"
+    },
+    {
+        "department": "藥粧生技",
+        "grade": "2",
+        "class": "",
+        "subject_name": "香粧品產業概論與實作 Introduction to Cosmetic Industry",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥粧生技二.",
+        "classroom": "QS401",
         "teacher": "龔玉蓉",
         "schedule": [
             {
@@ -23338,7 +25018,27 @@
         "credits": "2",
         "hours": "4",
         "target_classes": "藥粧生技三甲.",
-        "classroom": "Q610, QS404",
+        "classroom": "Q610",
+        "teacher": "潘裕紫",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205179"
+    },
+    {
+        "department": "藥粧生技",
+        "grade": "3",
+        "class": "甲",
+        "subject_name": "化粧品調製學與實驗 Introductory Cosmetics Preparation",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "4",
+        "target_classes": "藥粧生技三甲.",
+        "classroom": "QS404",
         "teacher": "潘裕紫",
         "schedule": [
             {
@@ -23373,7 +25073,27 @@
         "credits": "2",
         "hours": "3",
         "target_classes": "藥粧生技三甲.",
-        "classroom": "Q518, QS402",
+        "classroom": "Q518",
+        "teacher": "王櫻娟.蘇歆惠",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "5-7"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205181"
+    },
+    {
+        "department": "藥粧生技",
+        "grade": "3",
+        "class": "甲",
+        "subject_name": "應用微生物與實作 Applied Microbiology and Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "3",
+        "target_classes": "藥粧生技三甲.",
+        "classroom": "QS402",
         "teacher": "王櫻娟.蘇歆惠",
         "schedule": [
             {
@@ -23673,7 +25393,47 @@
         "credits": "2",
         "hours": "4",
         "target_classes": "粧品二.",
-        "classroom": "C221, C222, CS202",
+        "classroom": "C221",
+        "teacher": "李淵博",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206047"
+    },
+    {
+        "department": "粧品",
+        "grade": "2",
+        "class": "",
+        "subject_name": "化粧品分析技術實驗 Technologies for Cosmetic Analysis Lab",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "4",
+        "target_classes": "粧品二.",
+        "classroom": "C222",
+        "teacher": "李淵博",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206047"
+    },
+    {
+        "department": "粧品",
+        "grade": "2",
+        "class": "",
+        "subject_name": "化粧品分析技術實驗 Technologies for Cosmetic Analysis Lab",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "4",
+        "target_classes": "粧品二.",
+        "classroom": "CS202",
         "teacher": "李淵博",
         "schedule": [
             {
