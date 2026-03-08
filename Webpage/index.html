@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>嘉藥選課查課系統 (手機卡片完美版)</title>
+    <title>嘉藥選課查課系統(目前版本:2026.3.9)</title>
     <style>
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f7f6; color: #333; padding: 20px; margin: 0; }
         .container { max-width: 1400px; margin: 0 auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
@@ -35,26 +35,9 @@
         .page-btn:hover, .page-btn.active { background-color: #3498db; color: white; }
         .page-btn:disabled { border-color: #ccc; color: #ccc; cursor: not-allowed; }
 
-        /* 🟢 彈出視窗與 Iframe 強化設計 */
-        .modal { display: none; position: fixed; z-index: 9999; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.7); backdrop-filter: blur(3px); overflow: hidden; }
-        
-        /* 讓視窗在手機上盡可能佔滿空間，避免 iframe 擠壓 */
-        .modal-content { background-color: #fff; margin: 2vh auto; width: 95%; max-width: 1000px; height: 96vh; border-radius: 10px; display: flex; flex-direction: column; box-shadow: 0 10px 30px rgba(0,0,0,0.5); animation: slideUp 0.3s ease; }
-        
-        @keyframes slideUp { from { opacity: 0; transform: translateY(50px); } to { opacity: 1; transform: translateY(0); } }
-        
-        .modal-header { height: 50px; flex-shrink: 0; background: #2c3e50; color: white; border-top-left-radius: 10px; border-top-right-radius: 10px; display: flex; justify-content: space-between; align-items: center; padding: 0 20px; }
-        .modal-header h3 { margin: 0; font-size: 18px; }
-        
-        /* 加大關閉按鈕，方便手機點擊 */
-        .close-btn { color: #ecf0f1; font-size: 32px; font-weight: bold; cursor: pointer; transition: 0.2s; padding: 0 10px; line-height: 50px; }
-        .close-btn:hover { color: #e74c3c; }
-        
-        /* 包裝 iframe 的容器，加上 `-webkit-overflow-scrolling` 讓 iOS 滾動順暢 */
-        .iframe-container { flex-grow: 1; width: 100%; overflow: auto; -webkit-overflow-scrolling: touch; background-color: #f9f9f9; }
-        #syllabusFrame { width: 100%; height: 100%; border: none; display: block; }
-
-        /* 手機版 RWD (卡片化視圖) */
+        /* =========================================
+           📱 手機版 RWD (卡片化視圖優化版)
+           ========================================= */
         @media (max-width: 768px) {
             body { padding: 5px; }
             .container { padding: 10px; }
@@ -63,9 +46,12 @@
             .filter-group { width: 100%; }
 
             table thead { display: none; }
-            table, tbody, tr, td { display: block; width: 100%; box-sizing: border-box; }
-
+            
+            /* 🌟 修正重點：把 tr 變成 flex 容器，方便我們重新排序卡片內的欄位 */
+            table, tbody { display: block; width: 100%; }
             tr {
+                display: flex;
+                flex-direction: column; /* 讓 td 上下排列 */
                 margin-bottom: 20px;
                 background-color: #fff;
                 border: 1px solid #e0e0e0;
@@ -76,6 +62,8 @@
             }
 
             td {
+                width: 100%;
+                box-sizing: border-box;
                 text-align: right !important; 
                 padding: 12px 15px;
                 position: relative;
@@ -97,39 +85,40 @@
                 text-align: left;
             }
 
-            /* 🌟 修正：科目名稱成為頂部標題列，確保留出足夠的空間給右側的大綱按鈕 */
+            /* 🌟 修正重點：強制科目名稱排在卡片的第一列 (最上面) */
             td[data-label="科目名稱"] {
+                order: -1; /* flexbox 神奇屬性：數字越小越前面 */
                 background-color: #3498db;
                 color: #fff !important; 
                 font-size: 18px;
                 text-align: left !important;
                 justify-content: flex-start;
                 padding: 15px;
-                padding-right: 60px; /* 留出 60px 給右側的按鈕，避免字壓在按鈕上 */
+                padding-right: 60px; /* 留出空間給大綱按鈕 */
                 border-bottom: none;
-                z-index: 1; /* 確保它在基層 */
+                z-index: 1; 
             }
             td[data-label="科目名稱"]::before { display: none; }
 
-            /* 🌟 修正：大綱按鈕的 Z-index 提升，並且精準定位在藍色標題列內部 */
+            /* 大綱按鈕精準定位在藍色標題列 */
             td[data-label="大綱"] {
                 position: absolute;
                 top: 0;
                 right: 0;
                 background: transparent;
                 border: none;
-                padding: 0; /* 移除外框預設 padding */
-                width: 60px; /* 固定寬高，作為點擊熱區 */
-                height: 54px; /* 配合標題列高度 */
+                padding: 0;
+                width: 60px; 
+                height: 54px; 
                 display: flex;
                 justify-content: center;
                 align-items: center;
-                z-index: 10; /* ⚠️ 關鍵：把層級拉高，保證絕對不會被科目名稱或科系擋住 */
+                z-index: 10; 
             }
             td[data-label="大綱"]::before { display: none; }
             
             td[data-label="大綱"] a {
-                font-size: 26px !important; /* 放大圖示方便手機點擊 */
+                font-size: 26px !important; 
                 filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3)); 
                 text-decoration: none;
                 display: flex;
@@ -140,8 +129,6 @@
             }
 
             td[data-label="編號"] { display: none; }
-            
-            /* 讓沒抓到資料的欄位不要空一塊，讓排版更緊密 */
             td:empty { display: none; }
         }
     </style>
@@ -220,18 +207,6 @@
     </div>
 
     <div class="pagination-controls" id="paginationControls"></div>
-</div>
-
-<div id="syllabusModal" class="modal" onclick="closeModalOutside(event)">
-    <div class="modal-content">
-        <div class="modal-header">
-            <h3>📄 課程大綱</h3>
-            <span class="close-btn" onclick="closeModal()" title="關閉視窗">&times;</span>
-        </div>
-        <div class="iframe-container">
-            <iframe id="syllabusFrame" src="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
-        </div>
-    </div>
 </div>
 
 <script>
@@ -316,11 +291,11 @@
 
             const fullType = `${course.required_or_elective || ''} ${course.course_category || ''}`.trim();
 
+            // 🌟 修正重點：把大綱按鈕改回 target="_blank"，直接開新分頁，繞過學校的 iframe 防護
             const syllabusHtml = course.syllabus_url 
-                ? `<a href="javascript:void(0);" onclick="openModal('${course.syllabus_url}')" title="點擊查看大綱">📄</a>` 
+                ? `<a href="${course.syllabus_url}" target="_blank" title="點擊在新分頁查看大綱" style="text-decoration: none; font-size: 18px;">📄</a>` 
                 : `<span style="color:#ccc; font-size: 14px;">無</span>`;
 
-            // 調整輸出的 HTML，確保 data-label 正確對應
             const tr = document.createElement('tr');
             tr.innerHTML = `
                 <td data-label="編號">${startIndex + index + 1}</td>
@@ -419,26 +394,6 @@
         });
 
         renderTable();
-    }
-
-    // 🟢 防止背景滾動的機制
-    function openModal(url) {
-        document.getElementById('syllabusFrame').src = url; 
-        document.getElementById('syllabusModal').style.display = 'block'; 
-        document.body.style.overflow = 'hidden'; // 鎖定背景網頁，防止滑動時底下的課表也跟著動
-    }
-
-    function closeModal() {
-        document.getElementById('syllabusModal').style.display = 'none'; 
-        document.getElementById('syllabusFrame').src = ''; 
-        document.body.style.overflow = 'auto'; // 恢復背景網頁的滾動
-    }
-
-    function closeModalOutside(event) {
-        const modal = document.getElementById('syllabusModal');
-        if (event.target === modal) {
-            closeModal();
-        }
     }
 </script>
 
