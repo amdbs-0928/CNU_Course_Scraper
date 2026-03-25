@@ -217,7 +217,7 @@
 
     window.onload = async function() {
         try {
-            const response = await fetch('courses_updated.json'); 
+            const response = await fetch('courses_fixed2026.3.9.json'); 
             allCourses = await response.json();
             
             extractAndRenderCheckboxes();
@@ -226,7 +226,7 @@
             renderTable();
         } catch (error) {
             console.error("載入失敗:", error);
-            document.getElementById('courseBody').innerHTML = "<tr><td colspan='10' style='color:red; text-align:center;'>無法載入資料，請確認 courses_updated.json 是否存在。</td></tr>";
+            document.getElementById('courseBody').innerHTML = "<tr><td colspan='10' style='color:red; text-align:center;'>無法載入資料，請確認 courses_fixed2026.3.9.json 是否存在。</td></tr>";
         }
     };
 
@@ -399,4 +399,4 @@
 
 </body>
 </html>
-<!-- 2026/03/25 編寫 -->
+<!-- 2026/03/09 編寫 -->
