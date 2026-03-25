@@ -17,6 +17,8 @@
         .filter-group { display: flex; flex-direction: column; flex: 1; min-width: 180px; }
         .filter-group label.group-title { font-size: 14px; margin-bottom: 8px; font-weight: bold; color: #2c3e50; border-bottom: 2px solid #bdc3c7; padding-bottom: 4px; }
         
+        .filter-group label.Warning { font-size: 14px; margin-bottom: 5px; color: #ff0000;  padding-bottom: 0px; }
+        
         .checkbox-container { display: flex; flex-wrap: wrap; gap: 8px; background: #fff; border: 1px solid #ccc; padding: 10px; border-radius: 4px; max-height: 120px; overflow-y: auto; }
         .checkbox-container label { font-size: 13px; font-weight: normal; cursor: pointer; display: flex; align-items: center; gap: 4px; color: #444; }
         .hours-input { padding: 8px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px; width: 100px; }
@@ -153,6 +155,7 @@
         </div>
         <div class="filter-group">
             <label class="group-title">班級</label>
+            <label class="Warning">選了多班開課課程不顯示</label>
             <div class="checkbox-container" id="class-cb">載入中...</div>
         </div>
         <div class="filter-group">
