@@ -1041,6 +1041,216 @@
     },
     {
         "department": "藥學",
+        "grade": "1",
+        "class": "戊",
+        "subject_name": "英文基本能力檢定 Basic English Proficiency Test",
+        "required_or_elective": "必修",
+        "course_category": "檢定課程",
+        "credits": "0",
+        "hours": "0",
+        "target_classes": "藥學一戊.",
+        "classroom": "免教室",
+        "teacher": "王心宜",
+        "schedule": [],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203672"
+    },
+    {
+        "department": "藥學",
+        "grade": "1",
+        "class": "戊",
+        "subject_name": "資訊基本能力檢定 Basic Information Technology Proficiency Test",
+        "required_or_elective": "必修",
+        "course_category": "檢定課程",
+        "credits": "0",
+        "hours": "0",
+        "target_classes": "藥學一戊.",
+        "classroom": "免教室",
+        "teacher": "梁育誠",
+        "schedule": [],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203673"
+    },
+    {
+        "department": "藥學",
+        "grade": "1",
+        "class": "戊",
+        "subject_name": "基礎服務學習 Basic Service-Learning",
+        "required_or_elective": "必修",
+        "course_category": "通識課程",
+        "credits": "1",
+        "hours": "1",
+        "target_classes": "藥學一戊.",
+        "classroom": "C204",
+        "teacher": "陳莉螢",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203674"
+    },
+    {
+        "department": "藥學",
+        "grade": "1",
+        "class": "戊",
+        "subject_name": "中文閱讀與寫作 Chinese Reading and Writing",
+        "required_or_elective": "必修",
+        "course_category": "通識課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學一戊.",
+        "classroom": "C101",
+        "teacher": "王嘉弘",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "7-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203676"
+    },
+    {
+        "department": "藥學",
+        "grade": "1",
+        "class": "戊",
+        "subject_name": "人工智慧生活應用 Artificial Intelligence Life Applications",
+        "required_or_elective": "必修",
+        "course_category": "通識課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學一戊.",
+        "classroom": "Q116",
+        "teacher": "劉俊延",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "1-2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203677"
+    },
+    {
+        "department": "藥學",
+        "grade": "1",
+        "class": "戊",
+        "subject_name": "分析化學 Analytical Chemistry",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學一戊.",
+        "classroom": "C317",
+        "teacher": "顏清棋",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203678"
+    },
+    {
+        "department": "藥學",
+        "grade": "1",
+        "class": "戊",
+        "subject_name": "有機化學 Organic Chemistry",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "4",
+        "hours": "4",
+        "target_classes": "藥學一戊.",
+        "classroom": "N205",
+        "teacher": "李得噍",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "3-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203679"
+    },
+    {
+        "department": "藥學",
+        "grade": "1",
+        "class": "戊",
+        "subject_name": "解剖生理學(一) Anatomy and Physiology (I)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學一戊.",
+        "classroom": "N205",
+        "teacher": "林指宏.王立峰",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203680"
+    },
+    {
+        "department": "藥學",
+        "grade": "1",
+        "class": "戊",
+        "subject_name": "基礎科學實驗(二) Basic Science Laboratory (II)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "4",
+        "target_classes": "藥學一戊.",
+        "classroom": "PS201, PS202",
+        "teacher": "張麗珍",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203681"
+    },
+    {
+        "department": "藥學",
+        "grade": "1",
+        "class": "戊",
+        "subject_name": "中藥概論 Outline of Traditional Chinese Medicine",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "1",
+        "target_classes": "藥學一戊.",
+        "classroom": "N205",
+        "teacher": "莊順發",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203682"
+    },
+    {
+        "department": "藥學",
+        "grade": "1",
+        "class": "戊",
+        "subject_name": "生物統計學 Biostatistics",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學一戊.",
+        "classroom": "N205",
+        "teacher": "黃大駿",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203683"
+    },
+    {
+        "department": "藥學",
         "grade": "2",
         "class": "甲",
         "subject_name": "藥劑學(一) Pharmaceutics (I)",
@@ -1389,7 +1599,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "藥學二.",
-        "classroom": "O205",
+        "classroom": "B204",
         "teacher": "陳靜玫",
         "schedule": [
             {
@@ -1569,7 +1779,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "藥學二.",
-        "classroom": "O205",
+        "classroom": "B204",
         "teacher": "陳月英",
         "schedule": [
             {
@@ -1758,6 +1968,190 @@
             }
         ],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204679"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "戊",
+        "subject_name": "藥劑學(一) Pharmaceutics (I)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學二戊.",
+        "classroom": "O204",
+        "teacher": "羅永光.楊定崙",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203728"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "戊",
+        "subject_name": "生藥學(一) Pharmacognosy (I)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學二戊.",
+        "classroom": "O205",
+        "teacher": "陳莉螢",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203729"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "戊",
+        "subject_name": "生藥學實驗 Pharmacognosy Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "2",
+        "target_classes": "藥學二戊.",
+        "classroom": "N301, N302",
+        "teacher": "高毓瑩.楊舜心",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "1-2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203730"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "戊",
+        "subject_name": "微生物及免疫學 Microbiology and Immunology",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學二戊.",
+        "classroom": "O205",
+        "teacher": "葉旭華.王冠傑.廖顯鋒",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "1"
+            },
+            {
+                "day": 3,
+                "period": "1-2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203731"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "戊",
+        "subject_name": "病態生理學 Pathophysiology",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學二戊.",
+        "classroom": "O205",
+        "teacher": "楊清傑.李璧伊",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203732"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "戊",
+        "subject_name": "基礎科學實驗(三) Basic Science Laboratory (Ⅲ)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "4",
+        "target_classes": "藥學二戊.",
+        "classroom": "Q518, N301",
+        "teacher": "蔡新茂.葉旭華.王冠傑",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203733"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "戊",
+        "subject_name": "分子生物學 Molecular Biology",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學二戊.",
+        "classroom": "O204",
+        "teacher": "高毓瑩",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203734"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "戊",
+        "subject_name": "程式設計與生活 Programming and Life",
+        "required_or_elective": "必修",
+        "course_category": "通識課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學二戊.",
+        "classroom": "Q214",
+        "teacher": "楊珮彤",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "1-2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203735"
+    },
+    {
+        "department": "藥學",
+        "grade": "2",
+        "class": "",
+        "subject_name": "藥用化粧品學 Cosmeceuticals",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學二.",
+        "classroom": "P301",
+        "teacher": "梁育楷",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "7-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204680"
     },
     {
         "department": "藥學",
@@ -2341,6 +2735,126 @@
     },
     {
         "department": "藥學",
+        "grade": "3",
+        "class": "戊",
+        "subject_name": "藥理學(二) Pharmacology (II)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學三戊.",
+        "classroom": "N103",
+        "teacher": "施美份.陳秋蘭.劉淑芬",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "5-7"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203763"
+    },
+    {
+        "department": "藥學",
+        "grade": "3",
+        "class": "戊",
+        "subject_name": "藥物化學(二) Medicinal Chemistry (II)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學三戊.",
+        "classroom": "N206",
+        "teacher": "呂玉玲.湯鎧瑋",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203764"
+    },
+    {
+        "department": "藥學",
+        "grade": "3",
+        "class": "戊",
+        "subject_name": "生物藥劑學 Biopharmaceutics",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學三戊.",
+        "classroom": "O201",
+        "teacher": "林恒弘.羅永光",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203765"
+    },
+    {
+        "department": "藥學",
+        "grade": "3",
+        "class": "戊",
+        "subject_name": "藥物分析學(二) Pharmaceutical Analysis (II)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學三戊.",
+        "classroom": "O205",
+        "teacher": "唐自強.楊定崙",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203766"
+    },
+    {
+        "department": "藥學",
+        "grade": "3",
+        "class": "戊",
+        "subject_name": "藥物分析學實驗 Pharmaceutical Analysis Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "4",
+        "target_classes": "藥學三戊.",
+        "classroom": "N401",
+        "teacher": "游慧美.顏清棋",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203767"
+    },
+    {
+        "department": "藥學",
+        "grade": "3",
+        "class": "戊",
+        "subject_name": "中藥藥物學 Chinese Materia Medica",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學三戊.",
+        "classroom": "O205",
+        "teacher": "楊舜心",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203768"
+    },
+    {
+        "department": "藥學",
         "grade": "4",
         "class": "甲",
         "subject_name": "藥物治療學(二) Pharmacotherapeutics(II)",
@@ -2422,26 +2936,6 @@
             }
         ],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203772"
-    },
-    {
-        "department": "藥學",
-        "grade": "4",
-        "class": "",
-        "subject_name": "客觀結構式臨床技能測試(OSCE) Objective Structured Clinical Examination",
-        "required_or_elective": "選修",
-        "course_category": "專業課程",
-        "credits": "2",
-        "hours": "2",
-        "target_classes": "藥學四.",
-        "classroom": "P302",
-        "teacher": "嚴淑揚.施妤青",
-        "schedule": [
-            {
-                "day": 4,
-                "period": "3-4"
-            }
-        ],
-        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204685"
     },
     {
         "department": "藥學",
@@ -2795,6 +3289,90 @@
     },
     {
         "department": "藥學",
+        "grade": "4",
+        "class": "戊",
+        "subject_name": "藥物治療學(二) Pharmacotherapeutics(II)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學四戊.",
+        "classroom": "N206",
+        "teacher": "陳靖文.陳家豪",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "5"
+            },
+            {
+                "day": 4,
+                "period": "7-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203790"
+    },
+    {
+        "department": "藥學",
+        "grade": "4",
+        "class": "戊",
+        "subject_name": "臨床藥學 Clinical Pharmacy",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "1",
+        "target_classes": "藥學四戊.",
+        "classroom": "N206",
+        "teacher": "嚴淑揚",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203791"
+    },
+    {
+        "department": "藥學",
+        "grade": "4",
+        "class": "戊",
+        "subject_name": "非處方藥 Non-prescription Drugs",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學四戊.",
+        "classroom": "N206",
+        "teacher": "廖顯鋒.施惠瀅",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203792"
+    },
+    {
+        "department": "藥學",
+        "grade": "4",
+        "class": "戊",
+        "subject_name": "方劑學(含實驗) Chinese Medicine Prescription and Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學四戊.",
+        "classroom": "N103, N302",
+        "teacher": "梁峰賓.曾華友.林允崇",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203793"
+    },
+    {
+        "department": "藥學",
         "grade": "5",
         "class": "甲",
         "subject_name": "核心專業能力檢定 Specialized Proficiency Test",
@@ -2893,7 +3471,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "藥學五.",
-        "classroom": "P302",
+        "classroom": "N102",
         "teacher": "王慧瑜",
         "schedule": [
             {
@@ -3013,7 +3591,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "藥學五.",
-        "classroom": "P302",
+        "classroom": "N102",
         "teacher": "徐妤婷",
         "schedule": [
             {
@@ -3202,6 +3780,76 @@
             }
         ],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205660"
+    },
+    {
+        "department": "藥學",
+        "grade": "5",
+        "class": "戊",
+        "subject_name": "核心專業能力檢定 Specialized Proficiency Test",
+        "required_or_elective": "必修",
+        "course_category": "專業檢定",
+        "credits": "0",
+        "hours": "0",
+        "target_classes": "藥學五戊.",
+        "classroom": "",
+        "teacher": "高毓瑩",
+        "schedule": [],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203812"
+    },
+    {
+        "department": "藥學",
+        "grade": "5",
+        "class": "戊",
+        "subject_name": "藥事行政與法規 Pharmaceutical Affairs Administration and Law",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學五戊.",
+        "classroom": "N206",
+        "teacher": "王四切.施妤青",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203813"
+    },
+    {
+        "department": "藥學",
+        "grade": "5",
+        "class": "戊",
+        "subject_name": "藥學實務 Pharmacy Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學五戊.",
+        "classroom": "",
+        "teacher": "高毓瑩.劉國盛.洪瑞祥.葉旭華.羅永光.梁育楷",
+        "schedule": [],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203814"
+    },
+    {
+        "department": "藥學",
+        "grade": "5",
+        "class": "戊",
+        "subject_name": "藥事照護 Pharmaceutical Care",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學五戊.",
+        "classroom": "N206",
+        "teacher": "嚴淑揚.陳佳玲",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "7-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203815"
     },
     {
         "department": "食藥檢測",
@@ -9233,7 +9881,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "醫管三.",
-        "classroom": "F214",
+        "classroom": "Q416-1",
         "teacher": "張碩芳",
         "schedule": [
             {
@@ -9603,7 +10251,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "環工一.",
-        "classroom": "E001",
+        "classroom": "C202",
         "teacher": "董志明",
         "schedule": [
             {
@@ -9673,7 +10321,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "環工一乙.",
-        "classroom": "B602",
+        "classroom": "Q115",
         "teacher": "胡𤪱方",
         "schedule": [
             {
@@ -9953,7 +10601,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "環工科技二.",
-        "classroom": "C205",
+        "classroom": "E001",
         "teacher": "黃美玲",
         "schedule": [
             {
@@ -10209,7 +10857,7 @@
         "hours": "1",
         "target_classes": "環工科技三甲.",
         "classroom": "免教室",
-        "teacher": "陳煜斌",
+        "teacher": "余光昌.蔡瀛逸.林瑩珕.陳煜斌.陳世雄.米孝萱.萬孟瑋",
         "schedule": [],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204593"
     },
@@ -10379,7 +11027,7 @@
         "hours": "1",
         "target_classes": "環工應用三乙.",
         "classroom": "免教室",
-        "teacher": "謝國鎔",
+        "teacher": "余光昌.蔡利局.米孝萱",
         "schedule": [],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204601"
     },
@@ -10393,7 +11041,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "環工應用三.",
-        "classroom": "E005",
+        "classroom": "E102",
         "teacher": "陳煜斌",
         "schedule": [
             {
@@ -10697,26 +11345,6 @@
         "teacher": "洪睦雅.蔡利局.林瑩珕.陳煜斌.米孝萱",
         "schedule": [],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206296"
-    },
-    {
-        "department": "環工應用",
-        "grade": "4",
-        "class": "",
-        "subject_name": "環境永續與淨零排放 Environmental Sustainability and Net-Zero Emissions",
-        "required_or_elective": "選修",
-        "course_category": "專業課程",
-        "credits": "2",
-        "hours": "2",
-        "target_classes": "環工應用四.",
-        "classroom": "C206",
-        "teacher": "黃煒能",
-        "schedule": [
-            {
-                "day": 5,
-                "period": "3-4"
-            }
-        ],
-        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206486"
     },
     {
         "department": "粧品",
@@ -11833,7 +12461,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "粧品四.",
-        "classroom": "B406",
+        "classroom": "B501",
         "teacher": "陳慶輝",
         "schedule": [
             {
@@ -12447,26 +13075,6 @@
             }
         ],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204703"
-    },
-    {
-        "department": "幼保",
-        "grade": "3",
-        "class": "",
-        "subject_name": "幼兒打擊樂 Children's Percussion",
-        "required_or_elective": "選修",
-        "course_category": "專業課程",
-        "credits": "2",
-        "hours": "2",
-        "target_classes": "幼保三.",
-        "classroom": "Y702",
-        "teacher": "李悅綾",
-        "schedule": [
-            {
-                "day": 3,
-                "period": "3-4"
-            }
-        ],
-        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205484"
     },
     {
         "department": "幼保",
@@ -13438,7 +14046,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "保營一.",
-        "classroom": "QS504",
+        "classroom": "C111",
         "teacher": "李國榮",
         "schedule": [
             {
@@ -14769,7 +15377,7 @@
         "hours": "2",
         "target_classes": "休閒三甲.",
         "classroom": "免教室",
-        "teacher": "李宏夫",
+        "teacher": "李宏夫.白宗易.陳昆伯",
         "schedule": [],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203928"
     },
@@ -19208,7 +19816,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "環資三甲.",
-        "classroom": "E003",
+        "classroom": "C208",
         "teacher": "龔佩怡",
         "schedule": [
             {
@@ -19359,7 +19967,7 @@
         "hours": "2",
         "target_classes": "環資四.",
         "classroom": "E004",
-        "teacher": "方煥銘",
+        "teacher": "蔡宜哲",
         "schedule": [
             {
                 "day": 3,
@@ -19824,7 +20432,7 @@
         "hours": "1",
         "target_classes": "觀光三甲.",
         "classroom": "免教室",
-        "teacher": "陳信安",
+        "teacher": "黃源謀.王怡潔.陳信安.鐘大歡.陳忠偉",
         "schedule": [],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203853"
     },
@@ -20812,26 +21420,6 @@
         "department": "運管",
         "grade": "3",
         "class": "",
-        "subject_name": "水適能運動指導法 Conduct Sports Aquafitness",
-        "required_or_elective": "選修",
-        "course_category": "專業課程",
-        "credits": "2",
-        "hours": "2",
-        "target_classes": "運管三.",
-        "classroom": "C322, H101",
-        "teacher": "林明珠",
-        "schedule": [
-            {
-                "day": 2,
-                "period": "7-8"
-            }
-        ],
-        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205747"
-    },
-    {
-        "department": "運管",
-        "grade": "3",
-        "class": "",
         "subject_name": "運動貼紮與實驗 Athletic Taping and Practice",
         "required_or_elective": "選修",
         "course_category": "專業課程",
@@ -21232,26 +21820,6 @@
         "teacher": "陳如萍",
         "schedule": [],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205780"
-    },
-    {
-        "department": "高福",
-        "grade": "2",
-        "class": "",
-        "subject_name": "非營利組織管理 Non-profit Organization Management",
-        "required_or_elective": "選修",
-        "course_category": "專業課程",
-        "credits": "3",
-        "hours": "3",
-        "target_classes": "高福二.",
-        "classroom": "C308",
-        "teacher": "王淑慧",
-        "schedule": [
-            {
-                "day": 1,
-                "period": "2-4"
-            }
-        ],
-        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205782"
     },
     {
         "department": "高福",
@@ -22834,7 +23402,7 @@
         "class": "乙",
         "subject_name": "核心專業能力檢定 Proficiency Test",
         "required_or_elective": "必修",
-        "course_category": "檢定課程",
+        "course_category": "專業檢定",
         "credits": "0",
         "hours": "0",
         "target_classes": "消防三乙.",
@@ -23812,7 +24380,7 @@
         "course_category": "文藝",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "周大任",
         "schedule": [
@@ -24072,7 +24640,7 @@
         "course_category": "文藝",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "劉酈嫺",
         "schedule": [
@@ -24332,7 +24900,7 @@
         "course_category": "文藝",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "陳美貴",
         "schedule": [
@@ -24592,7 +25160,7 @@
         "course_category": "永續",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "李秉倫",
         "schedule": [
@@ -24852,7 +25420,7 @@
         "course_category": "永續",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "陳建廷",
         "schedule": [
@@ -25112,7 +25680,7 @@
         "course_category": "自然",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "林德雄",
         "schedule": [
@@ -25372,7 +25940,7 @@
         "course_category": "自然",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "吳南鈞",
         "schedule": [
@@ -25632,7 +26200,7 @@
         "course_category": "三創",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "吳浩銘",
         "schedule": [
@@ -25892,7 +26460,7 @@
         "course_category": "三創",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "許淑燕",
         "schedule": [
@@ -26152,7 +26720,7 @@
         "course_category": "三創",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "呂姿瑩",
         "schedule": [
@@ -26412,7 +26980,7 @@
         "course_category": "樂活",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "楊勝欽",
         "schedule": [
@@ -26672,7 +27240,7 @@
         "course_category": "樂活",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "李豐良",
         "schedule": [
@@ -26932,7 +27500,7 @@
         "course_category": "樂活",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "張秀卿",
         "schedule": [
@@ -27192,7 +27760,7 @@
         "course_category": "職能",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "黃源謀",
         "schedule": [
@@ -27452,7 +28020,7 @@
         "course_category": "職能",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "劉玉華",
         "schedule": [
@@ -27712,7 +28280,7 @@
         "course_category": "文藝",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "杜德瑞",
         "schedule": [
@@ -27972,7 +28540,7 @@
         "course_category": "文藝",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "李宏夫",
         "schedule": [
@@ -28232,7 +28800,7 @@
         "course_category": "文藝",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "林美惠",
         "schedule": [
@@ -28492,7 +29060,7 @@
         "course_category": "永續",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "李蒲",
         "schedule": [
@@ -28752,7 +29320,7 @@
         "course_category": "永續",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "蔡政忠",
         "schedule": [
@@ -29012,7 +29580,7 @@
         "course_category": "自然",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "林佳輝",
         "schedule": [
@@ -29272,7 +29840,7 @@
         "course_category": "自然",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "張若磐",
         "schedule": [
@@ -29532,7 +30100,7 @@
         "course_category": "自然",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "許育瑞",
         "schedule": [
@@ -29792,7 +30360,7 @@
         "course_category": "三創",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "林德雄",
         "schedule": [
@@ -30052,7 +30620,7 @@
         "course_category": "三創",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "陳宜稚",
         "schedule": [
@@ -30312,7 +30880,7 @@
         "course_category": "三創",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "陳如萍",
         "schedule": [
@@ -30572,7 +31140,7 @@
         "course_category": "樂活",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "陳珹箖",
         "schedule": [
@@ -30832,7 +31400,7 @@
         "course_category": "樂活",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "張麗蓉",
         "schedule": [
@@ -31092,7 +31660,7 @@
         "course_category": "樂活",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "温仁育",
         "schedule": [
@@ -31352,7 +31920,7 @@
         "course_category": "職能",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "沈浩宇",
         "schedule": [
@@ -31612,7 +32180,7 @@
         "course_category": "職能",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "徐珠文",
         "schedule": [
@@ -31872,7 +32440,7 @@
         "course_category": "職能",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "吳浩銘",
         "schedule": [
@@ -36352,7 +36920,7 @@
         "course_category": "文藝",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "周大任",
         "schedule": [
@@ -36592,7 +37160,7 @@
         "course_category": "文藝",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "王雅瑩",
         "schedule": [
@@ -36832,7 +37400,7 @@
         "course_category": "文藝",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "陳佩芬",
         "schedule": [
@@ -37072,7 +37640,7 @@
         "course_category": "永續",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "余元傑",
         "schedule": [
@@ -37312,7 +37880,7 @@
         "course_category": "永續",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "黃俊穎",
         "schedule": [
@@ -37552,7 +38120,7 @@
         "course_category": "永續",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "歐陽宇",
         "schedule": [
@@ -37792,7 +38360,7 @@
         "course_category": "自然",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "林永章",
         "schedule": [
@@ -38032,7 +38600,7 @@
         "course_category": "自然",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "陳忠偉",
         "schedule": [
@@ -38272,7 +38840,7 @@
         "course_category": "自然",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "黃乙珊",
         "schedule": [
@@ -38512,7 +39080,7 @@
         "course_category": "三創",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "沈浩宇",
         "schedule": [
@@ -38752,7 +39320,7 @@
         "course_category": "三創",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "陳師瑩",
         "schedule": [
@@ -38992,7 +39560,7 @@
         "course_category": "三創",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "洪榮臨",
         "schedule": [
@@ -39232,7 +39800,7 @@
         "course_category": "樂活",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "于錫倩",
         "schedule": [
@@ -39472,7 +40040,7 @@
         "course_category": "樂活",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "陳淑紅",
         "schedule": [
@@ -39712,7 +40280,7 @@
         "course_category": "樂活",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "陳珹箖",
         "schedule": [
@@ -39952,7 +40520,7 @@
         "course_category": "職能",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "黃濬清",
         "schedule": [
@@ -40192,7 +40760,7 @@
         "course_category": "職能",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "劉酈嫺",
         "schedule": [
@@ -40432,7 +41000,7 @@
         "course_category": "職能",
         "credits": "2",
         "hours": "2",
-        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二甲",
+        "target_classes": "藥學二丁.藥學二丙.藥學二乙.藥學二戊.藥學二甲",
         "classroom": "",
         "teacher": "梁育棻",
         "schedule": [

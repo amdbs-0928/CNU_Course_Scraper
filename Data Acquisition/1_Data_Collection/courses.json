@@ -1352,6 +1352,276 @@
     {
         "department": "食品科技系食品餐飲僑生專班",
         "grade": "1",
+        "class": "1",
+        "subject_name": "大學英文(二) College English(II)",
+        "required_or_elective": "必修",
+        "course_category": "通識課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學一乙.藥學一丙.藥學一戊.",
+        "classroom": "C113",
+        "teacher": "Damien",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203645"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "1",
+        "subject_name": "大學英文(二) College English(II)",
+        "required_or_elective": "必修",
+        "course_category": "通識課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學一乙.藥學一丙.藥學一戊.",
+        "classroom": "F312",
+        "teacher": "吳佩珊",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205672"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "1",
+        "subject_name": "英文基本能力檢定 Basic English Proficiency Test",
+        "required_or_elective": "必修",
+        "course_category": "檢定課程",
+        "credits": "0",
+        "hours": "0",
+        "target_classes": "藥學一戊.",
+        "classroom": "免教室",
+        "teacher": "王心宜",
+        "schedule": [],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203672"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "1",
+        "subject_name": "資訊基本能力檢定 Basic Information Technology Proficiency Test",
+        "required_or_elective": "必修",
+        "course_category": "檢定課程",
+        "credits": "0",
+        "hours": "0",
+        "target_classes": "藥學一戊.",
+        "classroom": "免教室",
+        "teacher": "梁育誠",
+        "schedule": [],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203673"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "1",
+        "subject_name": "基礎服務學習 Basic Service-Learning",
+        "required_or_elective": "必修",
+        "course_category": "通識課程",
+        "credits": "1",
+        "hours": "1",
+        "target_classes": "藥學一戊.",
+        "classroom": "C204",
+        "teacher": "陳莉螢",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203674"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "1",
+        "subject_name": "中文閱讀與寫作 Chinese Reading and Writing",
+        "required_or_elective": "必修",
+        "course_category": "通識課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學一戊.",
+        "classroom": "C101",
+        "teacher": "王嘉弘",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "7-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203676"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "1",
+        "subject_name": "人工智慧生活應用 Artificial Intelligence Life Applications",
+        "required_or_elective": "必修",
+        "course_category": "通識課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學一戊.",
+        "classroom": "Q116",
+        "teacher": "劉俊延",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "1-2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203677"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "1",
+        "subject_name": "分析化學 Analytical Chemistry",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學一戊.",
+        "classroom": "C317",
+        "teacher": "顏清棋",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203678"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "1",
+        "subject_name": "有機化學 Organic Chemistry",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "4",
+        "hours": "4",
+        "target_classes": "藥學一戊.",
+        "classroom": "N205",
+        "teacher": "李得噍",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "3-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203679"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "1",
+        "subject_name": "解剖生理學(一) Anatomy and Physiology (I)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學一戊.",
+        "classroom": "N205",
+        "teacher": "林指宏.王立峰",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203680"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "1",
+        "subject_name": "基礎科學實驗(二) Basic Science Laboratory (II)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "4",
+        "target_classes": "藥學一戊.",
+        "classroom": "PS201",
+        "teacher": "張麗珍",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203681"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "1",
+        "subject_name": "基礎科學實驗(二) Basic Science Laboratory (II)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "4",
+        "target_classes": "藥學一戊.",
+        "classroom": "PS202",
+        "teacher": "張麗珍",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "5-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203681"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "1",
+        "subject_name": "中藥概論 Outline of Traditional Chinese Medicine",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "1",
+        "target_classes": "藥學一戊.",
+        "classroom": "N205",
+        "teacher": "莊順發",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203682"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "1",
+        "subject_name": "生物統計學 Biostatistics",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學一戊.",
+        "classroom": "N205",
+        "teacher": "黃大駿",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203683"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
         "class": "2",
         "subject_name": "藥劑學(一) Pharmaceutics (I)",
         "required_or_elective": "必修",
@@ -1779,7 +2049,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "藥學二.",
-        "classroom": "O205",
+        "classroom": "B204",
         "teacher": "陳靜玫",
         "schedule": [
             {
@@ -1999,7 +2269,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "藥學二.",
-        "classroom": "O205",
+        "classroom": "B204",
         "teacher": "陳月英",
         "schedule": [
             {
@@ -2228,6 +2498,230 @@
             }
         ],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204679"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "2",
+        "subject_name": "藥劑學(一) Pharmaceutics (I)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學二戊.",
+        "classroom": "O204",
+        "teacher": "羅永光.楊定崙",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203728"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "2",
+        "subject_name": "生藥學(一) Pharmacognosy (I)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學二戊.",
+        "classroom": "O205",
+        "teacher": "陳莉螢",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203729"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "2",
+        "subject_name": "生藥學實驗 Pharmacognosy Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "2",
+        "target_classes": "藥學二戊.",
+        "classroom": "N301",
+        "teacher": "高毓瑩.楊舜心",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "1-2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203730"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "2",
+        "subject_name": "生藥學實驗 Pharmacognosy Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "2",
+        "target_classes": "藥學二戊.",
+        "classroom": "N302",
+        "teacher": "高毓瑩.楊舜心",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "1-2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203730"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "2",
+        "subject_name": "微生物及免疫學 Microbiology and Immunology",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學二戊.",
+        "classroom": "O205",
+        "teacher": "葉旭華.王冠傑.廖顯鋒",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "1"
+            },
+            {
+                "day": 3,
+                "period": "1-2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203731"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "2",
+        "subject_name": "病態生理學 Pathophysiology",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學二戊.",
+        "classroom": "O205",
+        "teacher": "楊清傑.李璧伊",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203732"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "2",
+        "subject_name": "基礎科學實驗(三) Basic Science Laboratory (Ⅲ)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "4",
+        "target_classes": "藥學二戊.",
+        "classroom": "Q518",
+        "teacher": "蔡新茂.葉旭華.王冠傑",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203733"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "2",
+        "subject_name": "基礎科學實驗(三) Basic Science Laboratory (Ⅲ)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "4",
+        "target_classes": "藥學二戊.",
+        "classroom": "N301",
+        "teacher": "蔡新茂.葉旭華.王冠傑",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203733"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "2",
+        "subject_name": "分子生物學 Molecular Biology",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學二戊.",
+        "classroom": "O204",
+        "teacher": "高毓瑩",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203734"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "2",
+        "subject_name": "程式設計與生活 Programming and Life",
+        "required_or_elective": "必修",
+        "course_category": "通識課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學二戊.",
+        "classroom": "Q214",
+        "teacher": "楊珮彤",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "1-2"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203735"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "2",
+        "subject_name": "藥用化粧品學 Cosmeceuticals",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學二.",
+        "classroom": "P301",
+        "teacher": "梁育楷",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "7-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204680"
     },
     {
         "department": "食品科技系食品餐飲僑生專班",
@@ -2872,6 +3366,166 @@
     {
         "department": "食品科技系食品餐飲僑生專班",
         "grade": "1",
+        "class": "3",
+        "subject_name": "優良藥品製造規範 Current Good Manufacturing Practice (CGMP)",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學三.",
+        "classroom": "P302",
+        "teacher": "梁育楷",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "7-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204683"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "3",
+        "subject_name": "藥理學(二) Pharmacology (II)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學三戊.",
+        "classroom": "N103",
+        "teacher": "施美份.陳秋蘭.劉淑芬",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "5-7"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203763"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "3",
+        "subject_name": "藥物化學(二) Medicinal Chemistry (II)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學三戊.",
+        "classroom": "N206",
+        "teacher": "呂玉玲.湯鎧瑋",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203764"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "3",
+        "subject_name": "生物藥劑學 Biopharmaceutics",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學三戊.",
+        "classroom": "O201",
+        "teacher": "林恒弘.羅永光",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203765"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "3",
+        "subject_name": "藥物分析學(二) Pharmaceutical Analysis (II)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學三戊.",
+        "classroom": "O205",
+        "teacher": "唐自強.楊定崙",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203766"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "3",
+        "subject_name": "藥物分析學實驗 Pharmaceutical Analysis Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "4",
+        "target_classes": "藥學三戊.",
+        "classroom": "N401",
+        "teacher": "游慧美.顏清棋",
+        "schedule": [
+            {
+                "day": 5,
+                "period": "1-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203767"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "3",
+        "subject_name": "中藥藥物學 Chinese Materia Medica",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學三戊.",
+        "classroom": "O205",
+        "teacher": "楊舜心",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203768"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "3",
+        "subject_name": "製劑特論 Special Topics on Pharmaceuticals",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學三.",
+        "classroom": "P301",
+        "teacher": "羅永光",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205674"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
         "class": "4",
         "subject_name": "藥物治療學(二) Pharmacotherapeutics(II)",
         "required_or_elective": "必修",
@@ -2977,26 +3631,6 @@
         "department": "食品科技系食品餐飲僑生專班",
         "grade": "1",
         "class": "4",
-        "subject_name": "客觀結構式臨床技能測試(OSCE) Objective Structured Clinical Examination",
-        "required_or_elective": "選修",
-        "course_category": "專業課程",
-        "credits": "2",
-        "hours": "2",
-        "target_classes": "藥學四.",
-        "classroom": "P302",
-        "teacher": "嚴淑揚.施妤青",
-        "schedule": [
-            {
-                "day": 4,
-                "period": "3-4"
-            }
-        ],
-        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204685"
-    },
-    {
-        "department": "食品科技系食品餐飲僑生專班",
-        "grade": "1",
-        "class": "4",
         "subject_name": "奈米生技製劑 Nanobiotechnology Formulations",
         "required_or_elective": "選修",
         "course_category": "專業課程",
@@ -3012,26 +3646,6 @@
             }
         ],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205661"
-    },
-    {
-        "department": "食品科技系食品餐飲僑生專班",
-        "grade": "1",
-        "class": "4",
-        "subject_name": "客觀結構式臨床技能測試(OSCE) Objective Structured Clinical Examination",
-        "required_or_elective": "選修",
-        "course_category": "專業課程",
-        "credits": "2",
-        "hours": "2",
-        "target_classes": "藥學四.",
-        "classroom": "P302",
-        "teacher": "嚴淑揚.施妤青",
-        "schedule": [
-            {
-                "day": 4,
-                "period": "3-4"
-            }
-        ],
-        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204685"
     },
     {
         "department": "食品科技系食品餐飲僑生專班",
@@ -3466,6 +4080,150 @@
     {
         "department": "食品科技系食品餐飲僑生專班",
         "grade": "1",
+        "class": "4",
+        "subject_name": "實證藥學 Evidence-based Pharmacy",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學四.",
+        "classroom": "P302",
+        "teacher": "張綜瑋",
+        "schedule": [
+            {
+                "day": 2,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204845"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "4",
+        "subject_name": "藥物治療學(二) Pharmacotherapeutics(II)",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學四戊.",
+        "classroom": "N206",
+        "teacher": "陳靖文.陳家豪",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "5"
+            },
+            {
+                "day": 4,
+                "period": "7-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203790"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "4",
+        "subject_name": "臨床藥學 Clinical Pharmacy",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "1",
+        "hours": "1",
+        "target_classes": "藥學四戊.",
+        "classroom": "N206",
+        "teacher": "嚴淑揚",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203791"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "4",
+        "subject_name": "非處方藥 Non-prescription Drugs",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學四戊.",
+        "classroom": "N206",
+        "teacher": "廖顯鋒.施惠瀅",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203792"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "4",
+        "subject_name": "方劑學(含實驗) Chinese Medicine Prescription and Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學四戊.",
+        "classroom": "N103",
+        "teacher": "梁峰賓.曾華友.林允崇",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203793"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "4",
+        "subject_name": "方劑學(含實驗) Chinese Medicine Prescription and Laboratory",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "3",
+        "hours": "3",
+        "target_classes": "藥學四戊.",
+        "classroom": "N302",
+        "teacher": "梁峰賓.曾華友.林允崇",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "2-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203793"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "4",
+        "subject_name": "敘事藥學 Narrative Pharmacy",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學四.",
+        "classroom": "F212",
+        "teacher": "蘇慧真",
+        "schedule": [
+            {
+                "day": 4,
+                "period": "3-4"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205662"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
         "class": "5",
         "subject_name": "核心專業能力檢定 Specialized Proficiency Test",
         "required_or_elective": "必修",
@@ -3563,7 +4321,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "藥學五.",
-        "classroom": "P302",
+        "classroom": "N102",
         "teacher": "王慧瑜",
         "schedule": [
             {
@@ -3653,7 +4411,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "藥學五.",
-        "classroom": "P302",
+        "classroom": "N102",
         "teacher": "王慧瑜",
         "schedule": [
             {
@@ -3703,7 +4461,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "藥學五.",
-        "classroom": "P302",
+        "classroom": "N102",
         "teacher": "徐妤婷",
         "schedule": [
             {
@@ -3923,7 +4681,117 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "藥學五.",
-        "classroom": "P302",
+        "classroom": "N102",
+        "teacher": "徐妤婷",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "7-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205659"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "5",
+        "subject_name": "藥品行銷與物流管理 Pharmaceutical Marketing and Logistics Management",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學五.",
+        "classroom": "P301",
+        "teacher": "吳泰慶",
+        "schedule": [
+            {
+                "day": 1,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205660"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "5",
+        "subject_name": "核心專業能力檢定 Specialized Proficiency Test",
+        "required_or_elective": "必修",
+        "course_category": "專業檢定",
+        "credits": "0",
+        "hours": "0",
+        "target_classes": "藥學五戊.",
+        "classroom": "",
+        "teacher": "高毓瑩",
+        "schedule": [],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203812"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "5",
+        "subject_name": "藥事行政與法規 Pharmaceutical Affairs Administration and Law",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學五戊.",
+        "classroom": "N206",
+        "teacher": "王四切.施妤青",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "5-6"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203813"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "5",
+        "subject_name": "藥學實務 Pharmacy Practice",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學五戊.",
+        "classroom": "",
+        "teacher": "高毓瑩.劉國盛.洪瑞祥.葉旭華.羅永光.梁育楷",
+        "schedule": [],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203814"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "5",
+        "subject_name": "藥事照護 Pharmaceutical Care",
+        "required_or_elective": "必修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學五戊.",
+        "classroom": "N206",
+        "teacher": "嚴淑揚.陳佳玲",
+        "schedule": [
+            {
+                "day": 3,
+                "period": "7-8"
+            }
+        ],
+        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203815"
+    },
+    {
+        "department": "食品科技系食品餐飲僑生專班",
+        "grade": "1",
+        "class": "5",
+        "subject_name": "營養與保健食品 Nutrition and Functional Foods",
+        "required_or_elective": "選修",
+        "course_category": "專業課程",
+        "credits": "2",
+        "hours": "2",
+        "target_classes": "藥學五.",
+        "classroom": "N102",
         "teacher": "徐妤婷",
         "schedule": [
             {
@@ -9403,7 +10271,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "醫管三.",
-        "classroom": "F214",
+        "classroom": "Q416-1",
         "teacher": "張碩芳",
         "schedule": [
             {
@@ -10153,7 +11021,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "環工一.",
-        "classroom": "E001",
+        "classroom": "C202",
         "teacher": "董志明",
         "schedule": [
             {
@@ -10403,7 +11271,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "環工一乙.",
-        "classroom": "B602",
+        "classroom": "Q115",
         "teacher": "胡𤪱方",
         "schedule": [
             {
@@ -10813,7 +11681,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "環工科技二.",
-        "classroom": "C205",
+        "classroom": "E001",
         "teacher": "黃美玲",
         "schedule": [
             {
@@ -11179,7 +12047,7 @@
         "hours": "1",
         "target_classes": "環工科技三甲.",
         "classroom": "免教室",
-        "teacher": "陳煜斌",
+        "teacher": "余光昌.蔡瀛逸.林瑩珕.陳煜斌.陳世雄.米孝萱.萬孟瑋",
         "schedule": [],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204593"
     },
@@ -11349,7 +12217,7 @@
         "hours": "1",
         "target_classes": "環工應用三乙.",
         "classroom": "免教室",
-        "teacher": "謝國鎔",
+        "teacher": "余光昌.蔡利局.米孝萱",
         "schedule": [],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204601"
     },
@@ -11363,7 +12231,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "環工應用三.",
-        "classroom": "E005",
+        "classroom": "E102",
         "teacher": "陳煜斌",
         "schedule": [
             {
@@ -11737,26 +12605,6 @@
         "teacher": "洪睦雅.蔡利局.林瑩珕.陳煜斌.米孝萱",
         "schedule": [],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206296"
-    },
-    {
-        "department": "食品科技系食品餐飲僑生專班",
-        "grade": "6",
-        "class": "4",
-        "subject_name": "環境永續與淨零排放 Environmental Sustainability and Net-Zero Emissions",
-        "required_or_elective": "選修",
-        "course_category": "專業課程",
-        "credits": "2",
-        "hours": "2",
-        "target_classes": "環工應用四.",
-        "classroom": "C206",
-        "teacher": "黃煒能",
-        "schedule": [
-            {
-                "day": 5,
-                "period": "3-4"
-            }
-        ],
-        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=206486"
     },
     {
         "department": "食品科技系食品餐飲僑生專班",
@@ -13908,7 +14756,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "粧品四.",
-        "classroom": "B406",
+        "classroom": "B501",
         "teacher": "陳慶輝",
         "schedule": [
             {
@@ -14088,7 +14936,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "粧品四.",
-        "classroom": "B406",
+        "classroom": "B501",
         "teacher": "陳慶輝",
         "schedule": [
             {
@@ -14802,26 +15650,6 @@
             }
         ],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=204703"
-    },
-    {
-        "department": "食品科技系食品餐飲僑生專班",
-        "grade": "8",
-        "class": "3",
-        "subject_name": "幼兒打擊樂 Children's Percussion",
-        "required_or_elective": "選修",
-        "course_category": "專業課程",
-        "credits": "2",
-        "hours": "2",
-        "target_classes": "幼保三.",
-        "classroom": "Y702",
-        "teacher": "李悅綾",
-        "schedule": [
-            {
-                "day": 3,
-                "period": "3-4"
-            }
-        ],
-        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205484"
     },
     {
         "department": "食品科技系食品餐飲僑生專班",
@@ -16578,7 +17406,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "保營一.",
-        "classroom": "QS504",
+        "classroom": "C111",
         "teacher": "李國榮",
         "schedule": [
             {
@@ -19109,7 +19937,7 @@
         "hours": "2",
         "target_classes": "休閒三甲.",
         "classroom": "免教室",
-        "teacher": "李宏夫",
+        "teacher": "李宏夫.白宗易.陳昆伯",
         "schedule": [],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203928"
     },
@@ -27063,7 +27891,7 @@
         "credits": "2",
         "hours": "2",
         "target_classes": "環資三甲.",
-        "classroom": "E003",
+        "classroom": "C208",
         "teacher": "龔佩怡",
         "schedule": [
             {
@@ -27304,7 +28132,7 @@
         "hours": "2",
         "target_classes": "環資四.",
         "classroom": "E004",
-        "teacher": "方煥銘",
+        "teacher": "蔡宜哲",
         "schedule": [
             {
                 "day": 3,
@@ -28269,7 +29097,7 @@
         "hours": "1",
         "target_classes": "觀光三甲.",
         "classroom": "免教室",
-        "teacher": "陳信安",
+        "teacher": "黃源謀.王怡潔.陳信安.鐘大歡.陳忠偉",
         "schedule": [],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=203853"
     },
@@ -29852,46 +30680,6 @@
         "department": "食品科技系食品餐飲僑生專班",
         "grade": "3",
         "class": "3",
-        "subject_name": "水適能運動指導法 Conduct Sports Aquafitness",
-        "required_or_elective": "選修",
-        "course_category": "專業課程",
-        "credits": "2",
-        "hours": "2",
-        "target_classes": "運管三.",
-        "classroom": "C322",
-        "teacher": "林明珠",
-        "schedule": [
-            {
-                "day": 2,
-                "period": "7-8"
-            }
-        ],
-        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205747"
-    },
-    {
-        "department": "食品科技系食品餐飲僑生專班",
-        "grade": "3",
-        "class": "3",
-        "subject_name": "水適能運動指導法 Conduct Sports Aquafitness",
-        "required_or_elective": "選修",
-        "course_category": "專業課程",
-        "credits": "2",
-        "hours": "2",
-        "target_classes": "運管三.",
-        "classroom": "H101",
-        "teacher": "林明珠",
-        "schedule": [
-            {
-                "day": 2,
-                "period": "7-8"
-            }
-        ],
-        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205747"
-    },
-    {
-        "department": "食品科技系食品餐飲僑生專班",
-        "grade": "3",
-        "class": "3",
         "subject_name": "運動貼紮與實驗 Athletic Taping and Practice",
         "required_or_elective": "選修",
         "course_category": "專業課程",
@@ -30047,46 +30835,6 @@
             }
         ],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205746"
-    },
-    {
-        "department": "食品科技系食品餐飲僑生專班",
-        "grade": "3",
-        "class": "3",
-        "subject_name": "水適能運動指導法 Conduct Sports Aquafitness",
-        "required_or_elective": "選修",
-        "course_category": "專業課程",
-        "credits": "2",
-        "hours": "2",
-        "target_classes": "運管三.",
-        "classroom": "C322",
-        "teacher": "林明珠",
-        "schedule": [
-            {
-                "day": 2,
-                "period": "7-8"
-            }
-        ],
-        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205747"
-    },
-    {
-        "department": "食品科技系食品餐飲僑生專班",
-        "grade": "3",
-        "class": "3",
-        "subject_name": "水適能運動指導法 Conduct Sports Aquafitness",
-        "required_or_elective": "選修",
-        "course_category": "專業課程",
-        "credits": "2",
-        "hours": "2",
-        "target_classes": "運管三.",
-        "classroom": "H101",
-        "teacher": "林明珠",
-        "schedule": [
-            {
-                "day": 2,
-                "period": "7-8"
-            }
-        ],
-        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205747"
     },
     {
         "department": "食品科技系食品餐飲僑生專班",
@@ -30832,26 +31580,6 @@
         "teacher": "陳如萍",
         "schedule": [],
         "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205780"
-    },
-    {
-        "department": "食品科技系食品餐飲僑生專班",
-        "grade": "8",
-        "class": "2",
-        "subject_name": "非營利組織管理 Non-profit Organization Management",
-        "required_or_elective": "選修",
-        "course_category": "專業課程",
-        "credits": "3",
-        "hours": "3",
-        "target_classes": "高福二.",
-        "classroom": "C308",
-        "teacher": "王淑慧",
-        "schedule": [
-            {
-                "day": 1,
-                "period": "2-4"
-            }
-        ],
-        "syllabus_url": "https://stweb4.cnu.edu.tw/SC2008/STPJ/STPJ_A_PGDATA.ASP?OpenKey=205782"
     },
     {
         "department": "食品科技系食品餐飲僑生專班",
@@ -35584,7 +36312,7 @@
         "class": "3",
         "subject_name": "核心專業能力檢定 Proficiency Test",
         "required_or_elective": "必修",
-        "course_category": "檢定課程",
+        "course_category": "專業檢定",
         "credits": "0",
         "hours": "0",
         "target_classes": "消防三乙.",

@@ -66,7 +66,7 @@ def run(playwright):
 
                     # 抓出該科系下所有的班級
                     current_links = menu_frame.locator("a").all_inner_texts()
-                    class_pattern = re.compile(r".*[一二三四五][甲乙丙丁A-Z].*") # 班級命名特徵 (一甲, 二乙等)
+                    class_pattern = re.compile(r".*[一二三四五][甲乙丙丁戊A-Z].*") # 班級命名特徵 (一甲, 二乙等)
                     
                     target_classes = [text.strip() for text in current_links if class_pattern.match(text.strip())]
                     target_classes = list(dict.fromkeys(target_classes))
