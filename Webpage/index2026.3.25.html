@@ -369,38 +369,16 @@
         const hoursInput = document.getElementById('hours').value.trim();
 
         filteredResults = allCourses.filter(course => {
-            // 關鍵字過濾
             if (searchKeyword && !(course.subject_name || "").toLowerCase().includes(searchKeyword)) return false;
+            if (checkedDepts.length > 0 && !checkedDepts.includes(course.department)) return false;
+            if (checkedGrades.length > 0 && !checkedGrades.includes(course.grade)) return false;
+            if (checkedClasses.length > 0 && !checkedClasses.includes(course.class)) return false;
             
-            // 🟢 優化：科系過濾 (支援去 target_classes 裡尋找)
-            if (checkedDepts.length > 0) {
-                const matchDept = checkedDepts.includes(course.department) || 
-                                  checkedDepts.some(d => course.target_classes && course.target_classes.includes(d));
-                if (!matchDept) return false;
-            }
-
-            // 🟢 優化：年級過濾 (把勾選的數字 1,2 轉成 一,二，再去 target_classes 裡尋找)
-            if (checkedGrades.length > 0) {
-                const gradeMap = {"1":"一", "2":"二", "3":"三", "4":"四", "5":"五", "6":"六", "7":"七", "8":"八"};
-                const matchGrade = checkedGrades.includes(course.grade) || 
-                                   checkedGrades.some(g => course.target_classes && course.target_classes.includes(gradeMap[g] || g));
-                if (!matchGrade) return false;
-            }
-
-           // 🟢 優化：班級過濾 (極致的 UX 體驗)
-            // 如果使用者勾了「丙」班，系統不僅會秀出「丙」班的課，還會自動秀出該年級「不分班」的共同課！
-            if (checkedClasses.length > 0 && !checkedClasses.includes(course.class) && course.class !== "不分班") {
-                return false;
-            }
-            
-            // 課程種類過濾
             const fullType = `${course.required_or_elective || ''} ${course.course_category || ''}`.trim();
             if (checkedTypes.length > 0 && !checkedTypes.includes(fullType)) return false;
             
-            // 時數過濾
             if (hoursInput && String(course.hours) !== hoursInput) return false;
 
-            // 時間 (星期與節次) 過濾
             if (checkedDays.length > 0 || checkedPeriods.length > 0) {
                 if (!course.schedule || course.schedule.length === 0) return false;
 
@@ -424,4 +402,4 @@
 
 </body>
 </html>
-<!-- 2026/03/26 編寫 -->
+<!-- 2026/03/25 編寫 -->

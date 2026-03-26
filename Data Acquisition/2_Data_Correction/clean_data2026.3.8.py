@@ -33,29 +33,16 @@ def clean_and_expand_courses():
         # 🎯 任務二：處理 target_classes 複數班級的情況
         class_list = [c.strip() for c in target_classes_str.split(".") if c.strip()]
         
-        # 🎯 任務二：處理 target_classes 複數班級的情況
-        class_list = [c.strip() for c in target_classes_str.split(".") if c.strip()]
-        
         for cls in class_list:
             new_course = course.copy() 
-            
-            # 🌟 優化 1：直接用單一班級覆蓋原本超長的 target_classes 字串
-            # 這樣前端表格的「開課班級」就不會擠滿一堆字，只會顯示「藥學二丙」
-            new_course["target_classes"] = cls 
             
             match = class_pattern.match(cls)
             if match:
                 new_course["department"] = match.group(1).strip()
                 new_course["grade"] = grade_map.get(match.group(2), match.group(2))
-                class_section = match.group(3).strip()
-                
-                # 🌟 優化 2：解決「運管二.」沒有班級的問題
-                if class_section == "":
-                    new_course["class"] = "不分班"
-                else:
-                    new_course["class"] = class_section
+                new_course["class"] = match.group(3).strip()
             else:
-                new_course["class"] = "不分班" # 容錯機制
+                new_course["class"] = cls 
             
             cleaned_courses.append(new_course)
 
@@ -108,4 +95,4 @@ def clean_and_expand_courses():
 if __name__ == "__main__":
     clean_and_expand_courses()
     
-#2026/03/26 編寫
+#2026/03/08 編寫
