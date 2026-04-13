@@ -18,3 +18,7 @@
 哭阿 發展通識資料幹嘛不放(學生資訊網全校開課課表查詢)，GPS登入帳號才能查發展通識課程大綱，是要增加讓我被告或被查的風險嗎?
 
 2026.3.26版本更新修改了部分選項導致班級查不到問題。優化了2_Data_Correction步驟中部份多班開課顯示雜亂的問題，同時將相同的資料格式套用到3_Data_Supplement(pdf to json)步驟進行修改。
+
+2026.4.14版本更新採用https://github.com/Unclecheng-li/AI_Animation 所學到的資源優化網頁視覺介面。採用項目檔案BG6.html、3D - demonstrate.html搭配Vibe Coding 
+請支持原作YouTube頻道：https://youtube.com/@mumu-159.5?si=ektcMl0Fq1TUZMPy 网络小白_Uncle城 
+學習影片:https://youtu.be/iiXm0Ko8yXk?si=QbY4OW6KFsXxsE3W
