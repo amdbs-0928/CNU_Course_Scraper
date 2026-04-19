@@ -22,5 +22,4 @@
 2026.4.14版本更新採用https://github.com/Unclecheng-li/AI_Animation 所學到的資源優化網頁視覺介面。採用項目檔案BG6.html、3D - demonstrate.html搭配Vibe Coding 
 請支持原作YouTube頻道：https://youtube.com/@mumu-159.5?si=ektcMl0Fq1TUZMPy 网络小白_Uncle城 
 學習影片:https://youtu.be/iiXm0Ko8yXk?si=QbY4OW6KFsXxsE3W
-
-123
+根據社群媒體投票將2026.4.14版本作為獨立網頁版本原網址改為2026.3.26版本
