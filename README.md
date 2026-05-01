@@ -1,5 +1,7 @@
-本專和結果網頁連結https://amdbs-0928.github.io/CNU_Course_Scraper/Webpage/index.html
+本專案結果網頁連結https://amdbs-0928.github.io/CNU_Course_Scraper/Webpage/index.html
 深色網頁連結https://amdbs-0928.github.io/CNU_Course_Scraper/Webpage/index_black.html
+
+為了解決學校查課系統反直覺
 
 資料由嘉藥(學生資訊網全校開課課表查詢)擷取https://stweb1.cnu.edu.tw/sc2008/Main4ST.asp?ScrX=1536&ScrY=864&RUN=
 
