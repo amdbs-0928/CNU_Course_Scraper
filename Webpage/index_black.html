@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>嘉藥選課查課系統(目前版本:2026.4.14)</title>
+    <title>嘉藥選課查課系統(目前版本:2026.8.24)</title>
     <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <style>
         /* ===== 配色系統 ===== */
@@ -684,7 +684,7 @@
     <div class="title-section" id="titleSection">
         <div class="title-content">
             <h1>🎓 嘉藥選課查課系統</h1>
-            <p class="title-subtitle">內容可能有誤 僅供參考 | 版本: 2026.4.14</p>
+            <p class="title-subtitle">內容可能有誤 僅供參考 | 版本: 2026.8.24</p>
             <div class="title-link">
                 <a href="https://github.com/amdbs-0928/CNU_Course_Scraper.git" target="_blank">
                     <i class="fa fa-github"></i> GitHub 專案連結 (查看版本更新事項)
@@ -780,7 +780,7 @@
 
     window.onload = async function() {
         try {
-            const response = await fetch('courses_updated.json'); 
+            const response = await fetch('courses_fixed2026.8.24.json'); 
             allCourses = await response.json();
             
             extractAndRenderCheckboxes();
@@ -789,7 +789,7 @@
             renderTable();
         } catch (error) {
             console.error("載入失敗:", error);
-            document.getElementById('courseBody').innerHTML = "<tr><td colspan='10' style='color:red; text-align:center;'>無法載入資料，請確認 courses_updated.json 是否存在。</td></tr>";
+            document.getElementById('courseBody').innerHTML = "<tr><td colspan='10' style='color:red; text-align:center;'>無法載入資料，請確認 courses_fixed2026.8.24.json 是否存在。</td></tr>";
         }
     };
 
