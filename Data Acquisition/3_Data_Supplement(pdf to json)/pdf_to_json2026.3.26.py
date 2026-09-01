@@ -5,8 +5,8 @@ import glob
 import os
 
 # 設定檔案路徑
-json_file_path = 'courses_fixed.json'
-output_json_path = 'courses_updated.json'
+json_file_path = 'courses_fixed2026.9.1.json'
+output_json_path = 'courses_updated2026.9.1.json'
 
 def build_class_map(courses_data):
     """
